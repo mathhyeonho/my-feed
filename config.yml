@@ -12,6 +12,12 @@ sources:
     url: "https://news.ycombinator.com/rss"
     count: 5
 
+  # ── Highcharts 차트 소스 ───────────────────────────────────────────────────
+  - name: "거시경제 지표"
+    type: "highcharts"
+    html_file: "data/nasdaq_pe.html"
+    source_url: "https://en.macromicro.me/series/23955/nasdaq-100-pe"
+
   # ── REST API 소스 ─────────────────────────────────────────────────────────
   # - name: "My API"
   #   type: "api"
