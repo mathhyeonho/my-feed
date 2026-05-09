@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "id": "2aef9bf8ac0386e539a321260d46d2e8",
+      "slug": "2026-05-09-show-hn-i-made-a-clojure-like-language-in-go-boots-2aef9b",
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "url": "https://github.com/nooga/let-go",
+      "content": "<a href=\"https://news.ycombinator.com/item?id=48076815\">Comments</a>",
+      "summary": "",
+      "source_name": "Hacker News",
+      "published_at": "2026-05-09T17:52:13",
+      "added_at": "2026-05-09T22:39:52.697451",
+      "extra": {}
+    },
+    {
+      "id": "9612e2ac6e6e027eedc73b4eb38dbfc8",
+      "slug": "2026-05-09-zed-editor-theme-builder-9612e2",
+      "title": "Zed Editor Theme-Builder",
+      "url": "https://zed.dev/theme-builder",
+      "content": "<a href=\"https://news.ycombinator.com/item?id=48076651\">Comments</a>",
+      "summary": "",
+      "source_name": "Hacker News",
+      "published_at": "2026-05-09T17:30:39",
+      "added_at": "2026-05-09T22:39:52.697321",
+      "extra": {}
+    },
+    {
+      "id": "19ecd877067f078aaa2e84e3642b7bbc",
+      "slug": "2026-05-09-ive-banned-query-strings-19ecd8",
+      "title": "I’ve banned query strings",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "content": "<a href=\"https://news.ycombinator.com/item?id=48076173\">Comments</a>",
+      "summary": "",
+      "source_name": "Hacker News",
+      "published_at": "2026-05-09T16:28:36",
+      "added_at": "2026-05-09T22:39:52.697197",
+      "extra": {}
+    },
+    {
+      "id": "79683e444d491e18bb6e4aef753aceb7",
+      "slug": "2026-05-09-internet-archive-switzerland-79683e",
+      "title": "Internet Archive Switzerland",
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "content": "<a href=\"https://news.ycombinator.com/item?id=48074265\">Comments</a>",
+      "summary": "",
+      "source_name": "Hacker News",
+      "published_at": "2026-05-09T12:00:30",
+      "added_at": "2026-05-09T22:39:52.697065",
+      "extra": {}
+    },
+    {
+      "id": "edf29cf444b8e57c355ec56dd5875112",
+      "slug": "2026-05-09-buns-experimental-rust-rewrite-hits-998-test-compa-edf29c",
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "content": "<a href=\"https://news.ycombinator.com/item?id=48073680\">Comments</a>",
+      "summary": "",
+      "source_name": "Hacker News",
+      "published_at": "2026-05-09T10:12:55",
+      "added_at": "2026-05-09T22:39:52.696924",
+      "extra": {}
+    }
+  ],
+  "seen_ids": [
+    "19ecd877067f078aaa2e84e3642b7bbc",
+    "edf29cf444b8e57c355ec56dd5875112",
+    "79683e444d491e18bb6e4aef753aceb7",
+    "2aef9bf8ac0386e539a321260d46d2e8",
+    "9612e2ac6e6e027eedc73b4eb38dbfc8"
+  ]
+}

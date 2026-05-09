@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Feed</title>
+    <link>https://mathhyeonho.github.io/my-feed</link>
+    <description>자동 수집 · AI 정리 피드</description>
+    <language>ko</language>
+    <lastBuildDate>Sat, 09 May 2026 22:39:52 -0000</lastBuildDate>
+    <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    
+  <item>
+    <title>Show HN: I made a Clojure-like language in Go, boots in 7ms</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-show-hn-i-made-a-clojure-like-language-in-go-boots-2aef9b.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-09-show-hn-i-made-a-clojure-like-language-in-go-boots-2aef9b.html</guid>
+    <pubDate>Sat, 09 May 2026 22:39:52 -0000</pubDate>
+    <category>Hacker News</category>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48076815">Comments</a>]]></description>
+  </item>
+  <item>
+    <title>Zed Editor Theme-Builder</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-zed-editor-theme-builder-9612e2.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-09-zed-editor-theme-builder-9612e2.html</guid>
+    <pubDate>Sat, 09 May 2026 22:39:52 -0000</pubDate>
+    <category>Hacker News</category>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48076651">Comments</a>]]></description>
+  </item>
+  <item>
+    <title>I’ve banned query strings</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-ive-banned-query-strings-19ecd8.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-09-ive-banned-query-strings-19ecd8.html</guid>
+    <pubDate>Sat, 09 May 2026 22:39:52 -0000</pubDate>
+    <category>Hacker News</category>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48076173">Comments</a>]]></description>
+  </item>
+  <item>
+    <title>Internet Archive Switzerland</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-internet-archive-switzerland-79683e.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-09-internet-archive-switzerland-79683e.html</guid>
+    <pubDate>Sat, 09 May 2026 22:39:52 -0000</pubDate>
+    <category>Hacker News</category>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48074265">Comments</a>]]></description>
+  </item>
+  <item>
+    <title>Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-buns-experimental-rust-rewrite-hits-998-test-compa-edf29c.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-09-buns-experimental-rust-rewrite-hits-998-test-compa-edf29c.html</guid>
+    <pubDate>Sat, 09 May 2026 22:39:52 -0000</pubDate>
+    <category>Hacker News</category>
+    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48073680">Comments</a>]]></description>
+  </item>
+  </channel>
+</rss>
