@@ -15,6 +15,7 @@ class FeedItem:
     published_at: str          # ISO 8601
     summary: Optional[str] = None
     tags: list = field(default_factory=list)
+    extra: dict = field(default_factory=dict)  # 차트 데이터 등 추가 페이로드
 
     @staticmethod
     def make_id(key: str) -> str:

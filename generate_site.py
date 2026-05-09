@@ -57,6 +57,7 @@ class SiteGenerator:
                     "source_name": item.source_name,
                     "published_at": item.published_at,
                     "added_at": datetime.utcnow().isoformat(),
+                    "extra": item.extra,
                 })
                 seen.add(item.id)
 
@@ -111,7 +112,7 @@ class SiteGenerator:
     def _write_post(self, item: FeedItem, slug: str):
         summary_html = md_lib.markdown(item.summary) if item.summary else ""
         (self.posts_dir / f"{slug}.html").write_text(
-            self._post_html(item, summary_html), encoding="utf-8"
+            self._post_html(item, summary_html, item.extra), encoding="utf-8"
         )
 
     def _write_index(self, posts: list[dict]):
@@ -168,6 +169,10 @@ a { color: inherit; }
 .summary-box p  { font-size: .93rem; margin-bottom: 7px; }
 .site-footer { text-align: center; color: #a1a1aa; font-size: .8rem; padding: 28px 0; }
 .site-footer a { color: #71717a; }
+.chart-badge { background: #f0fdf4; color: #16a34a; padding: 2px 9px;
+               border-radius: 20px; font-size: .78rem; font-weight: 600; }
+.chart-section { margin-top: 24px; }
+.chart-section canvas { max-height: 380px; }
 @media (max-width: 560px) {
     .site-header .inner { flex-direction: column; align-items: flex-start; }
 }
@@ -182,8 +187,25 @@ a { color: inherit; }
         cards = ""
         for p in posts:
             pu = self._post_url(p)
-            raw = (p.get("summary") or p.get("content", ""))[:200]
-            excerpt = re.sub(r"<[^>]+>", "", raw)
+            is_chart = p.get("extra", {}).get("type") == "line_chart"
+
+            if is_chart:
+                body = '<span class="chart-badge">📈 차트</span>'
+            else:
+                raw = (p.get("summary") or p.get("content", ""))[:200]
+                excerpt = re.sub(r"<[^>]+>", "", raw)
+                body = (
+                    f"<p class='excerpt'>{self._esc(excerpt)}"
+                    f"{'…' if len(raw) >= 200 else ''}</p>"
+                    if excerpt else ""
+                )
+
+            orig_btn = (
+                f'<a href="{self._esc(p.get("url","#"))}" class="btn btn-outline" '
+                f'target="_blank" rel="noopener">원문 ↗</a>'
+                if p.get("url") else ""
+            )
+
             cards += f"""
         <article class="card">
           <div class="meta">
@@ -191,10 +213,10 @@ a { color: inherit; }
             <span class="date">{self._fmt_date(p.get('added_at', p.get('published_at','')))}</span>
           </div>
           <h2><a href="{pu}">{self._esc(p.get('title',''))}</a></h2>
-          {"<p class='excerpt'>" + self._esc(excerpt) + ("…" if len(raw) >= 200 else "") + "</p>" if excerpt else ""}
+          {body}
           <div class="actions">
             <a href="{pu}" class="btn btn-primary">자세히 보기</a>
-            <a href="{self._esc(p.get('url','#'))}" class="btn btn-outline" target="_blank" rel="noopener">원문 ↗</a>
+            {orig_btn}
           </div>
         </article>"""
 
@@ -225,13 +247,22 @@ a { color: inherit; }
 </body>
 </html>"""
 
-    def _post_html(self, item: FeedItem, summary_html: str) -> str:
+    def _post_html(self, item: FeedItem, summary_html: str, extra: dict = None) -> str:
         s = self.config
         su = self._site_url
 
         summary_block = (
             f'<div class="summary-box"><h2>AI 요약</h2>{summary_html}</div>'
             if summary_html else ""
+        )
+
+        chart_block = ""
+        if extra and extra.get("type") == "line_chart":
+            chart_block = self._chart_block(extra)
+
+        orig_link = (
+            f'<a href="{self._esc(item.url)}" class="orig-link" target="_blank" rel="noopener">원문 읽기 ↗</a>'
+            if item.url else ""
         )
 
         return f"""<!DOCTYPE html>
@@ -256,13 +287,56 @@ a { color: inherit; }
         <span class="date">{self._fmt_date(item.published_at)}</span>
       </div>
       <h1>{self._esc(item.title)}</h1>
-      <a href="{self._esc(item.url)}" class="orig-link" target="_blank" rel="noopener">원문 읽기 ↗</a>
+      {orig_link}
       {summary_block}
+      {chart_block}
     </div>
   </main>
   <footer class="site-footer"><a href="{su}/feed.xml">RSS</a> · 자동 수집 피드</footer>
 </body>
 </html>"""
+
+    def _chart_block(self, extra: dict) -> str:
+        data_json = json.dumps(extra["data"])
+        title_js = extra.get("title", "").replace('"', '\\"')
+        return f"""<div class="chart-section">
+  <canvas id="feedChart"></canvas>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+<script>
+(function() {{
+  const raw = {data_json};
+  const labels = raw.map(p => {{
+    const yr = Math.floor(p.x);
+    const mo = Math.round((p.x - yr) * 12) + 1;
+    return yr + "-" + String(mo).padStart(2, "0");
+  }});
+  new Chart(document.getElementById("feedChart"), {{
+    type: "line",
+    data: {{
+      labels,
+      datasets: [{{
+        label: "{title_js}",
+        data: raw.map(p => p.y),
+        borderColor: "#2563eb",
+        backgroundColor: "rgba(37,99,235,0.07)",
+        borderWidth: 2,
+        pointRadius: 2,
+        tension: 0.3,
+        fill: true,
+      }}]
+    }},
+    options: {{
+      responsive: true,
+      plugins: {{ legend: {{ display: true }} }},
+      scales: {{
+        x: {{ ticks: {{ maxTicksLimit: 12, maxRotation: 45 }} }},
+        y: {{ beginAtZero: false }}
+      }}
+    }}
+  }});
+}})();
+</script>"""
 
     def _rss_xml(self, posts: list[dict]) -> str:
         s = self.config
