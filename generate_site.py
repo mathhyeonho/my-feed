@@ -362,6 +362,8 @@ a { color: inherit; }
       scales: {{
         x: {{
           type: "linear",
+          min: raw[0].x,
+          max: raw[raw.length - 1].x,
           ticks: {{
             maxTicksLimit: 12,
             maxRotation: 45,
