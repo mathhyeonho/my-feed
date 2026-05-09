@@ -5,9 +5,17 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 09 May 2026 22:39:52 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 22:46:48 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>US - NASDAQ 100 Index - Forward PE Ratio</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-us---nasdaq-100-index---forward-pe-ratio-121e5e.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-09-us---nasdaq-100-index---forward-pe-ratio-121e5e.html</guid>
+    <pubDate>Sat, 09 May 2026 22:46:48 -0000</pubDate>
+    <category>거시경제 지표</category>
+    <description><![CDATA[]]></description>
+  </item>
   <item>
     <title>Show HN: I made a Clojure-like language in Go, boots in 7ms</title>
     <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-show-hn-i-made-a-clojure-like-language-in-go-boots-2aef9b.html</link>
