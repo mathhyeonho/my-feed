@@ -335,32 +335,39 @@ a { color: inherit; }
 <script>
 (function() {{
   const raw = {data_json};
-  const labels = raw.map(p => {{
-    const totalMonths = Math.round(p.x * 12);
+  function fmtX(val) {{
+    const totalMonths = Math.round(val * 12);
     const yr = Math.floor(totalMonths / 12);
     const mo = (totalMonths % 12) + 1;
     return yr + "-" + String(mo).padStart(2, "0");
-  }});
+  }}
   new Chart(document.getElementById("feedChart"), {{
-    type: "line",
+    type: "scatter",
     data: {{
-      labels,
       datasets: [{{
         label: "{title_js}",
-        data: raw.map(p => p.y),
+        data: raw.map(p => ({{ x: p.x, y: p.y }})),
         borderColor: "#2563eb",
         backgroundColor: "rgba(37,99,235,0.07)",
         borderWidth: 2,
         pointRadius: 2,
         tension: 0.3,
         fill: true,
+        showLine: true,
       }}]
     }},
     options: {{
       responsive: true,
       plugins: {{ legend: {{ display: true }} }},
       scales: {{
-        x: {{ ticks: {{ maxTicksLimit: 12, maxRotation: 45 }} }},
+        x: {{
+          type: "linear",
+          ticks: {{
+            maxTicksLimit: 12,
+            maxRotation: 45,
+            callback: fmtX,
+          }}
+        }},
         y: {{ beginAtZero: false }}
       }}
     }}
