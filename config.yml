@@ -15,6 +15,7 @@ sources:
   # ── Highcharts 차트 소스 ───────────────────────────────────────────────────
   - name: "거시경제 지표"
     type: "highcharts"
+    interval: "weekly"                 # daily | weekly | monthly
     html_file: "data/nasdaq_pe.html"
     source_url: "https://en.macromicro.me/series/23955/nasdaq-100-pe"
 

@@ -1,5 +1,6 @@
 import re
 import logging
+from datetime import datetime
 from .base import BaseSource, FeedItem
 
 logger = logging.getLogger(__name__)
@@ -25,9 +26,10 @@ class HighchartsSource(BaseSource):
         if not chart:
             return []
 
+        today = datetime.utcnow().strftime("%Y-%m-%d")
         item = FeedItem(
-            id=FeedItem.make_id(self.name + chart["title"]),
-            title=chart["title"],
+            id=FeedItem.make_id(self.name + today),
+            title=f"{chart['title']} ({today})",
             url=self.config.get("source_url", ""),
             content="",
             source_name=self.name,
