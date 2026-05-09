@@ -1,0 +1,64 @@
+site:
+  title: "My Feed"
+  description: "자동 수집 · AI 정리 피드"
+  url: "https://YOUR_USERNAME.github.io/YOUR_REPO_NAME"   # ← 반드시 수정
+  language: "ko"
+  max_posts: 500   # 누적 최대 포스트 수
+
+sources:
+  # ── RSS 소스 ──────────────────────────────────────────────────────────────
+  - name: "Hacker News"
+    type: "rss"
+    url: "https://news.ycombinator.com/rss"
+    count: 5
+
+  # ── REST API 소스 ─────────────────────────────────────────────────────────
+  # - name: "My API"
+  #   type: "api"
+  #   url: "https://api.example.com/posts"
+  #   method: GET
+  #   count: 10
+  #   items_path: "data.items"    # 응답 JSON 내 배열 위치 (점 구분)
+  #   id_field:      "id"         # 고유 식별자 필드
+  #   title_field:   "title"      # 제목 필드
+  #   url_field:     "link"       # 원문 URL 필드
+  #   content_field: "body"       # 본문 필드
+  #   date_field:    "created_at" # 날짜 필드 (선택)
+  #   headers:
+  #     Authorization: "Bearer YOUR_TOKEN"
+  #   params:
+  #     page: 1
+
+  # ── 웹 스크래퍼 소스 ──────────────────────────────────────────────────────
+  # - name: "My Blog"
+  #   type: "scraper"
+  #   url: "https://example.com/blog"
+  #   count: 5
+  #   item_selector:    "article"
+  #   title_selector:   "h2"
+  #   link_selector:    "a"
+  #   content_selector: "p"
+
+llm:
+  enabled: false            # true 로 변경하면 AI 요약 활성화
+
+  provider: "anthropic"     # anthropic | openai | google | deepseek | ollama
+  model: ""                 # 비우면 각 프로바이더 기본값 사용
+                            #   anthropic → claude-haiku-4-5-20251001
+                            #   openai    → gpt-4o-mini
+                            #   google    → gemini-2.0-flash
+                            #   deepseek  → deepseek-chat
+                            #   ollama    → llama3.2
+
+  language: "ko"
+  max_items_per_run: 10     # 비용/속도 조절용 상한선
+
+  # 시스템 프롬프트 커스터마이즈 (선택, 비우면 기본값)
+  # system_prompt: |
+  #   당신은 ...
+
+  # Ollama 전용 옵션
+  # host: "http://localhost:11434"
+
+output:
+  dir: "docs"
