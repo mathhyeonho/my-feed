@@ -307,8 +307,9 @@ a { color: inherit; }
 (function() {{
   const raw = {data_json};
   const labels = raw.map(p => {{
-    const yr = Math.floor(p.x);
-    const mo = Math.round((p.x - yr) * 12) + 1;
+    const totalMonths = Math.round(p.x * 12);
+    const yr = Math.floor(totalMonths / 12);
+    const mo = (totalMonths % 12) + 1;
     return yr + "-" + String(mo).padStart(2, "0");
   }});
   new Chart(document.getElementById("feedChart"), {{
