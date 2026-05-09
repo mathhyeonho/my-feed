@@ -1,6 +1,18 @@
 {
   "posts": [
     {
+      "id": "290864bea4ed979d715b7b9f0be14411",
+      "slug": "2026-05-09-rust-but-lisp-290864",
+      "title": "Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "content": "<a href=\"https://news.ycombinator.com/item?id=48078575\">Comments</a>",
+      "summary": "",
+      "source_name": "Hacker News",
+      "published_at": "2026-05-09T21:46:27",
+      "added_at": "2026-05-09T23:30:00.929568",
+      "extra": {}
+    },
+    {
       "id": "121e5e62b6eef35254d00c3c60049ee1",
       "slug": "chart-us---nasdaq-100-index---forward-pe-ratio-121e5e",
       "title": "US - NASDAQ 100 Index - Forward PE Ratio",
@@ -8,8 +20,8 @@
       "content": "",
       "summary": "",
       "source_name": "거시경제 지표",
-      "published_at": "2026-05-09T23:08:45.342323",
-      "added_at": "2026-05-09T23:08:45.343183",
+      "published_at": "2026-05-09T23:30:00.928873",
+      "added_at": "2026-05-09T23:30:00.929800",
       "extra": {
         "type": "line_chart",
         "title": "US - NASDAQ 100 Index - Forward PE Ratio",
@@ -303,12 +315,13 @@
     }
   ],
   "seen_ids": [
+    "290864bea4ed979d715b7b9f0be14411",
     "edf29cf444b8e57c355ec56dd5875112",
-    "9612e2ac6e6e027eedc73b4eb38dbfc8",
-    "19ecd877067f078aaa2e84e3642b7bbc",
-    "a52dd94b751ae264db6ff5d5ac002032",
-    "2aef9bf8ac0386e539a321260d46d2e8",
     "121e5e62b6eef35254d00c3c60049ee1",
-    "79683e444d491e18bb6e4aef753aceb7"
+    "79683e444d491e18bb6e4aef753aceb7",
+    "2aef9bf8ac0386e539a321260d46d2e8",
+    "19ecd877067f078aaa2e84e3642b7bbc",
+    "9612e2ac6e6e027eedc73b4eb38dbfc8",
+    "a52dd94b751ae264db6ff5d5ac002032"
   ]
 }
