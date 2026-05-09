@@ -1,7 +1,7 @@
 site:
   title: "My Feed"
   description: "자동 수집 · AI 정리 피드"
-  url: "https://YOUR_USERNAME.github.io/YOUR_REPO_NAME"   # ← 반드시 수정
+  url: "https://mathhyeonho.github.io/my-feed"
   language: "ko"
   max_posts: 500   # 누적 최대 포스트 수
 
