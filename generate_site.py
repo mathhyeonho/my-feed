@@ -39,32 +39,41 @@ class SiteGenerator:
         db = self._load_db()
         seen = set(db.get("seen_ids", []))
 
-        truly_new = [it for it in new_items if it.id not in seen]
+        # 차트 아이템은 매번 재생성 (데이터가 계속 갱신됨)
+        chart_items = [it for it in new_items if it.extra.get("type") == "line_chart"]
+        regular_items = [it for it in new_items if not it.extra.get("type") == "line_chart"]
+        truly_new = [it for it in regular_items if it.id not in seen]
 
-        if not truly_new:
-            logger.info("새 아이템 없음.")
-        else:
-            for item in truly_new:
-                slug = self._make_slug(item)
-                self._write_post(item, slug)
-                db["posts"].insert(0, {
-                    "id": item.id,
-                    "slug": slug,
-                    "title": item.title,
-                    "url": item.url,
-                    "content": item.content,
-                    "summary": item.summary or "",
-                    "source_name": item.source_name,
-                    "published_at": item.published_at,
-                    "added_at": datetime.utcnow().isoformat(),
-                    "extra": item.extra,
-                })
+        added = 0
+
+        # 일반 아이템: 새 것만 추가
+        for item in truly_new:
+            slug = self._make_slug(item)
+            self._write_post(item, slug)
+            db["posts"].insert(0, self._post_record(item, slug))
+            seen.add(item.id)
+            added += 1
+
+        # 차트 아이템: 항상 HTML 재생성, DB는 upsert
+        for item in chart_items:
+            slug = self._chart_slug(item)
+            self._write_post(item, slug)
+            record = self._post_record(item, slug)
+            existing = next((p for p in db["posts"] if p["id"] == item.id), None)
+            if existing:
+                existing.update(record)
+            else:
+                db["posts"].insert(0, record)
                 seen.add(item.id)
+                added += 1
 
+        if added:
             db["seen_ids"] = list(seen)
             max_posts = self.config.get("max_posts", 500)
             db["posts"] = db["posts"][:max_posts]
-            logger.info(f"{len(truly_new)}개 추가. 총 {len(db['posts'])}개")
+            logger.info(f"{added}개 추가/갱신. 총 {len(db['posts'])}개")
+        else:
+            logger.info("새 아이템 없음.")
 
         self._write_index(db["posts"])
         self._write_rss(db["posts"])
@@ -78,6 +87,26 @@ class SiteGenerator:
 
     def _post_url(self, post: dict) -> str:
         return f"{self._site_url}/posts/{post['slug']}.html"
+
+    def _post_record(self, item: FeedItem, slug: str) -> dict:
+        return {
+            "id": item.id,
+            "slug": slug,
+            "title": item.title,
+            "url": item.url,
+            "content": item.content,
+            "summary": item.summary or "",
+            "source_name": item.source_name,
+            "published_at": item.published_at,
+            "added_at": datetime.utcnow().isoformat(),
+            "extra": item.extra,
+        }
+
+    def _chart_slug(self, item: FeedItem) -> str:
+        """차트는 URL이 바뀌지 않도록 날짜 없이 고정 슬러그 사용."""
+        safe = re.sub(r"[^\w\s-]", "", item.title.lower())
+        safe = re.sub(r"[\s_]+", "-", safe).strip("-")[:50]
+        return f"chart-{safe}-{item.id[:6]}"
 
     def _make_slug(self, item: FeedItem) -> str:
         date = item.published_at[:10] if item.published_at else datetime.utcnow().strftime("%Y-%m-%d")
