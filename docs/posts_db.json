@@ -1,6 +1,18 @@
 {
   "posts": [
     {
+      "id": "a52dd94b751ae264db6ff5d5ac002032",
+      "slug": "2026-05-09-getting-arrested-in-japan-a52dd9",
+      "title": "Getting Arrested in Japan",
+      "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+      "content": "<a href=\"https://news.ycombinator.com/item?id=48078647\">Comments</a>",
+      "summary": "",
+      "source_name": "Hacker News",
+      "published_at": "2026-05-09T21:56:19",
+      "added_at": "2026-05-09T22:56:07.067801",
+      "extra": {}
+    },
+    {
       "id": "121e5e62b6eef35254d00c3c60049ee1",
       "slug": "2026-05-09-us---nasdaq-100-index---forward-pe-ratio-121e5e",
       "title": "US - NASDAQ 100 Index - Forward PE Ratio",
@@ -291,11 +303,12 @@
     }
   ],
   "seen_ids": [
-    "79683e444d491e18bb6e4aef753aceb7",
-    "edf29cf444b8e57c355ec56dd5875112",
     "19ecd877067f078aaa2e84e3642b7bbc",
+    "79683e444d491e18bb6e4aef753aceb7",
+    "121e5e62b6eef35254d00c3c60049ee1",
+    "edf29cf444b8e57c355ec56dd5875112",
+    "a52dd94b751ae264db6ff5d5ac002032",
     "2aef9bf8ac0386e539a321260d46d2e8",
-    "9612e2ac6e6e027eedc73b4eb38dbfc8",
-    "121e5e62b6eef35254d00c3c60049ee1"
+    "9612e2ac6e6e027eedc73b4eb38dbfc8"
   ]
 }
