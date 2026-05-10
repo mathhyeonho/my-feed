@@ -2,6 +2,7 @@ import sys
 import json
 import yaml
 import logging
+import argparse
 from pathlib import Path
 from datetime import datetime
 
@@ -48,6 +49,10 @@ def is_due(src_cfg: dict, schedule: dict) -> bool:
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--force", action="store_true", help="interval 무시하고 모든 소스 강제 실행")
+    args = parser.parse_args()
+
     config = load_config()
     output_dir = config.get("output", {}).get("dir", "docs")
 
@@ -55,6 +60,8 @@ def main():
     from generate_site import SiteGenerator
 
     schedule = load_schedule(output_dir)
+    if args.force:
+        logger.info("=== 강제 실행 모드 (interval 무시) ===")
 
     # 1. 데이터 수집 (소스별 interval 체크)
     logger.info("=== 데이터 수집 시작 ===")
@@ -63,7 +70,7 @@ def main():
         name = src_cfg.get("name", "?")
         interval = src_cfg.get("interval", "daily")
 
-        if not is_due(src_cfg, schedule):
+        if not args.force and not is_due(src_cfg, schedule):
             logger.info(f"  [{name}] 스킵 (interval: {interval}, 아직 실행 불필요)")
             continue
 
