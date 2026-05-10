@@ -8,7 +8,7 @@ on:
       force:
         description: "모든 소스 강제 실행 (interval 무시)"
         required: false
-        default: "false"
+        default: "true"
         type: choice
         options: ["false", "true"]
 
