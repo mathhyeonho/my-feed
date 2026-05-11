@@ -1,6 +1,66 @@
 {
   "posts": [
     {
+      "id": "a78ae4336b6ecb6a2d11e08b825a5bd7",
+      "slug": "2026-05-10-incident-report-cve-2024-yikes-a78ae4",
+      "title": "Incident Report: CVE-2024-YIKES",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "content": "<a href=\"https://news.ycombinator.com/item?id=48086082\">Comments</a>",
+      "summary": "",
+      "source_name": "Hacker News",
+      "published_at": "2026-05-10T17:43:10",
+      "added_at": "2026-05-11T02:43:53.570058",
+      "extra": {}
+    },
+    {
+      "id": "18f70b6ddcd1a7b3a738177c6951ed49",
+      "slug": "2026-05-11-im-going-back-to-writing-code-by-hand-18f70b",
+      "title": "I'm going back to writing code by hand",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "content": "<a href=\"https://news.ycombinator.com/item?id=48090029\">Comments</a>",
+      "summary": "",
+      "source_name": "Hacker News",
+      "published_at": "2026-05-11T01:23:51",
+      "added_at": "2026-05-11T02:43:53.569990",
+      "extra": {}
+    },
+    {
+      "id": "e94801208f3d19749e2ccb15ca0b861d",
+      "slug": "2026-05-10-running-local-models-on-an-m4-with-24gb-memory-e94801",
+      "title": "Running local models on an M4 with 24GB memory",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "content": "<a href=\"https://news.ycombinator.com/item?id=48089091\">Comments</a>",
+      "summary": "",
+      "source_name": "Hacker News",
+      "published_at": "2026-05-10T23:09:10",
+      "added_at": "2026-05-11T02:43:53.569917",
+      "extra": {}
+    },
+    {
+      "id": "dc647b36d07068a1583771107e7bed0a",
+      "slug": "2026-05-10-local-ai-needs-to-be-the-norm-dc647b",
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "content": "<a href=\"https://news.ycombinator.com/item?id=48085821\">Comments</a>",
+      "summary": "",
+      "source_name": "Hacker News",
+      "published_at": "2026-05-10T17:19:28",
+      "added_at": "2026-05-11T02:43:53.569829",
+      "extra": {}
+    },
+    {
+      "id": "b3b8b105b70b0c8a01e785b0356e2dd4",
+      "slug": "2026-05-10-hardware-attestation-as-monopoly-enabler-b3b8b1",
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "content": "<a href=\"https://news.ycombinator.com/item?id=48086190\">Comments</a>",
+      "summary": "",
+      "source_name": "Hacker News",
+      "published_at": "2026-05-10T17:54:02",
+      "added_at": "2026-05-11T02:43:53.569705",
+      "extra": {}
+    },
+    {
       "id": "a37882d5233a7cfe7edb3ea45a769ed2",
       "slug": "2026-05-10-us---nasdaq-100-index---forward-pe-ratio-2026-05-1-a37882",
       "title": "US - NASDAQ 100 Index - Forward PE Ratio (2026-05-10)",
@@ -773,15 +833,20 @@
     }
   ],
   "seen_ids": [
-    "a52dd94b751ae264db6ff5d5ac002032",
-    "2aef9bf8ac0386e539a321260d46d2e8",
-    "edf29cf444b8e57c355ec56dd5875112",
-    "290864bea4ed979d715b7b9f0be14411",
-    "121e5e62b6eef35254d00c3c60049ee1",
-    "9612e2ac6e6e027eedc73b4eb38dbfc8",
     "79683e444d491e18bb6e4aef753aceb7",
-    "a37882d5233a7cfe7edb3ea45a769ed2",
+    "e94801208f3d19749e2ccb15ca0b861d",
+    "18f70b6ddcd1a7b3a738177c6951ed49",
+    "121e5e62b6eef35254d00c3c60049ee1",
+    "dc647b36d07068a1583771107e7bed0a",
+    "a78ae4336b6ecb6a2d11e08b825a5bd7",
+    "a52dd94b751ae264db6ff5d5ac002032",
+    "9612e2ac6e6e027eedc73b4eb38dbfc8",
+    "2aef9bf8ac0386e539a321260d46d2e8",
+    "b3b8b105b70b0c8a01e785b0356e2dd4",
     "18bee1a2924262c852d83c51b59e8e86",
-    "19ecd877067f078aaa2e84e3642b7bbc"
+    "edf29cf444b8e57c355ec56dd5875112",
+    "19ecd877067f078aaa2e84e3642b7bbc",
+    "290864bea4ed979d715b7b9f0be14411",
+    "a37882d5233a7cfe7edb3ea45a769ed2"
   ]
 }
