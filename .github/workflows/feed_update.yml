@@ -38,6 +38,8 @@ jobs:
           OPENAI_API_KEY:    ${{ secrets.OPENAI_API_KEY }}
           GOOGLE_API_KEY:    ${{ secrets.GOOGLE_API_KEY }}
           DEEPSEEK_API_KEY:  ${{ secrets.DEEPSEEK_API_KEY }}
+          KIS_APP_KEY:       ${{ secrets.KIS_APP_KEY }}
+          KIS_APP_SECRET:    ${{ secrets.KIS_APP_SECRET }}
         run: python main.py ${{ github.event.inputs.force == 'true' && '--force' || '' }}
 
       - name: Commit & push
@@ -45,5 +47,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name  "github-actions[bot]"
           git add docs/
+          [ -f data/ipo_cache.json ] && git add data/ipo_cache.json || true
           git diff --staged --quiet || git commit -m "feed: update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push

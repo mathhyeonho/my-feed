@@ -12,6 +12,36 @@ sources:
     url: "https://news.ycombinator.com/rss"
     count: 5
 
+  # ── 신규상장주 트래커 ─────────────────────────────────────────────────────
+  - name: "신규상장주 트래커"
+    type: "ipo_tracker"
+    interval: "daily"
+
+    # KIS API 인증 (환경변수 KIS_APP_KEY / KIS_APP_SECRET 사용 권장)
+    # kis_app_key: ""
+    # kis_app_secret: ""
+
+    # 조회할 거래소 (해외: NASD NYSE AMEX SEHK SHAA SZAA TKSE HASE VNSE / 국내: KOSPI KOSDAQ)
+    markets:
+      # 해외 (KIS 마켓 코드)
+      - nas   # NASDAQ
+      - nys   # NYSE
+      - ams   # AMEX
+      - hks   # 홍콩
+      - shs   # 상해
+      - szs   # 심천
+      - tse   # 도쿄
+      - hnx   # 하노이 (베트남)
+      - hsx   # 호치민 (베트남)
+      # 국내 (KIS API 인증 필요)
+      - KOSPI
+      - KOSDAQ
+
+    ipo_days: 21          # 거래일 기준 신규상장 판정 임계값 (2개월 OHLCV 조회 후 이 수치 미만이면 신규상장)
+    cache_days: 30        # 비-신규상장 티커 캐시 유지 기간 (일)
+    batch_size: 50        # yfinance 1회 배치 요청 종목 수
+    batch_delay: 0.5      # 배치 간 대기 시간 (초, 레이트리밋 방지)
+
   # ── Highcharts 차트 소스 ───────────────────────────────────────────────────
   - name: "거시경제 지표"
     type: "highcharts"

@@ -10,3 +10,7 @@ openai>=1.50.0          # OpenAI + DeepSeek 공용
 google-generativeai>=0.8.0
 
 beautifulsoup4>=4.12.0
+
+# IPO tracker
+yfinance>=0.2.40
+tqdm>=4.0.0

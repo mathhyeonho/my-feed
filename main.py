@@ -51,6 +51,7 @@ def is_due(src_cfg: dict, schedule: dict) -> bool:
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--force", action="store_true", help="interval 무시하고 모든 소스 강제 실행")
+    parser.add_argument("--reset-ipo-cache", action="store_true", help="IPO 캐시 무시 (전종목 재확인)")
     args = parser.parse_args()
 
     config = load_config()
@@ -75,7 +76,7 @@ def main():
             continue
 
         try:
-            source = get_source(src_cfg)
+            source = get_source({**src_cfg, "_force": getattr(args, "reset_ipo_cache", False)})
             items = source.fetch()
             all_items.extend(items)
             schedule[name] = datetime.utcnow().isoformat()

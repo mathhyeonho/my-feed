@@ -3,12 +3,14 @@ from .rss import RSSSource
 from .rest_api import RestAPISource
 from .scraper import ScraperSource
 from .highcharts import HighchartsSource
+from .ipo_tracker import IPOTrackerSource
 
 SOURCE_REGISTRY: dict[str, type[BaseSource]] = {
     "rss": RSSSource,
     "api": RestAPISource,
     "scraper": ScraperSource,
     "highcharts": HighchartsSource,
+    "ipo_tracker": IPOTrackerSource,
 }
 
 
