@@ -75,12 +75,13 @@ class IPOTrackerSource(BaseSource):
 
     def __init__(self, config: dict) -> None:
         super().__init__(config)
-        self._force:       bool  = config.get("_force", False)
-        self._ipo_days:    int   = config.get("ipo_days", 21)
-        self._cache_days:  int   = config.get("cache_days", 30)
-        self._markets:     list  = config.get("markets", list(ALL_MARKETS))
-        self._batch_size:  int   = config.get("batch_size", 50)
-        self._batch_delay: float = config.get("batch_delay", 0.5)
+        self._force:               bool  = config.get("_force", False)
+        self._ipo_days:            int   = config.get("ipo_days", 21)
+        self._max_listing_age_days:int   = config.get("max_listing_age_days", 45)
+        self._cache_days:          int   = config.get("cache_days", 30)
+        self._markets:             list  = config.get("markets", list(ALL_MARKETS))
+        self._batch_size:          int   = config.get("batch_size", 50)
+        self._batch_delay:         float = config.get("batch_delay", 0.5)
 
         self._app_key    = config.get("kis_app_key")    or os.environ.get("KIS_APP_KEY",    "")
         self._app_secret = config.get("kis_app_secret") or os.environ.get("KIS_APP_SECRET", "")
@@ -291,11 +292,17 @@ class IPOTrackerSource(BaseSource):
                 if n == 0:
                     results[ticker] = None
                 elif n < self._ipo_days:
-                    results[ticker] = {
-                        "trading_days": n,
-                        "first_date":   closes.index[0].strftime("%Y-%m-%d"),
-                        "last_close":   float(closes.iloc[-1]),
-                    }
+                    first_dt = closes.index[0].to_pydatetime().replace(tzinfo=None)
+                    # 첫 거래일이 최근 max_listing_age_days 이내여야 신규상장
+                    # → 상폐 종목은 first_date가 오래전이라 제외됨 (휴일 영향 없음)
+                    if (datetime.now() - first_dt).days <= self._max_listing_age_days:
+                        results[ticker] = {
+                            "trading_days": n,
+                            "first_date":   closes.index[0].strftime("%Y-%m-%d"),
+                            "last_close":   float(closes.iloc[-1]),
+                        }
+                    else:
+                        results[ticker] = None  # 오래된 종목이 상폐된 케이스
                 else:
                     results[ticker] = None
 
