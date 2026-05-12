@@ -5,128 +5,700 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 12 May 2026 02:36:33 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 10:12:54 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
   <item>
-    <title>Incident Report: CVE-2024-YIKES</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-10-incident-report-cve-2024-yikes-a78ae4.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-10-incident-report-cve-2024-yikes-a78ae4.html</guid>
-    <pubDate>Mon, 11 May 2026 02:43:53 -0000</pubDate>
-    <category>Hacker News</category>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48086082">Comments</a>]]></description>
-  </item>
-  <item>
-    <title>I'm going back to writing code by hand</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-11-im-going-back-to-writing-code-by-hand-18f70b.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-11-im-going-back-to-writing-code-by-hand-18f70b.html</guid>
-    <pubDate>Mon, 11 May 2026 02:43:53 -0000</pubDate>
-    <category>Hacker News</category>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48090029">Comments</a>]]></description>
-  </item>
-  <item>
-    <title>Running local models on an M4 with 24GB memory</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-10-running-local-models-on-an-m4-with-24gb-memory-e94801.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-10-running-local-models-on-an-m4-with-24gb-memory-e94801.html</guid>
-    <pubDate>Mon, 11 May 2026 02:43:53 -0000</pubDate>
-    <category>Hacker News</category>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48089091">Comments</a>]]></description>
-  </item>
-  <item>
-    <title>Local AI needs to be the norm</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-10-local-ai-needs-to-be-the-norm-dc647b.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-10-local-ai-needs-to-be-the-norm-dc647b.html</guid>
-    <pubDate>Mon, 11 May 2026 02:43:53 -0000</pubDate>
-    <category>Hacker News</category>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48085821">Comments</a>]]></description>
-  </item>
-  <item>
-    <title>Hardware Attestation as Monopoly Enabler</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-10-hardware-attestation-as-monopoly-enabler-b3b8b1.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-10-hardware-attestation-as-monopoly-enabler-b3b8b1.html</guid>
-    <pubDate>Mon, 11 May 2026 02:43:53 -0000</pubDate>
-    <category>Hacker News</category>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48086190">Comments</a>]]></description>
-  </item>
-  <item>
-    <title>US - NASDAQ 100 Index - Forward PE Ratio (2026-05-10)</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-10-us---nasdaq-100-index---forward-pe-ratio-2026-05-1-a37882.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-10-us---nasdaq-100-index---forward-pe-ratio-2026-05-1-a37882.html</guid>
-    <pubDate>Sun, 10 May 2026 01:13:06 -0000</pubDate>
+    <title>US - NASDAQ 100 Index - Forward PE Ratio (2026-05-12)</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-us---nasdaq-100-index---forward-pe-ratio-2026-05-1-d8d0d6.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-us---nasdaq-100-index---forward-pe-ratio-2026-05-1-d8d0d6.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
     <category>거시경제 지표</category>
     <description><![CDATA[]]></description>
   </item>
   <item>
-    <title>US - NASDAQ 100 Index - Forward PE Ratio (2026-05-09)</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-us---nasdaq-100-index---forward-pe-ratio-2026-05-0-18bee1.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-09-us---nasdaq-100-index---forward-pe-ratio-2026-05-0-18bee1.html</guid>
-    <pubDate>Sat, 09 May 2026 23:40:04 -0000</pubDate>
-    <category>거시경제 지표</category>
-    <description><![CDATA[]]></description>
+    <title>[신규상장] 코스모로보틱스 (439960.KQ) - KOSDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-코스모로보틱스-439960kq---kosdaq-8a3008.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-코스모로보틱스-439960kq---kosdaq-8a3008.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 코스모로보틱스
+티커: 439960.KQ
+시장: KOSDAQ (한국)
+첫 거래일: 2026-05-07
+거래일수: 3일
+최근 종가: 24,000.0000]]></description>
   </item>
   <item>
-    <title>Rust but Lisp</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-rust-but-lisp-290864.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-09-rust-but-lisp-290864.html</guid>
-    <pubDate>Sat, 09 May 2026 23:30:00 -0000</pubDate>
-    <category>Hacker News</category>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48078575">Comments</a>]]></description>
+    <title>[신규상장] BF랩스 (139050.KQ) - KOSDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-bf랩스-139050kq---kosdaq-122b85.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-bf랩스-139050kq---kosdaq-122b85.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: BF랩스
+티커: 139050.KQ
+시장: KOSDAQ (한국)
+첫 거래일: 2026-04-27
+거래일수: 7일
+최근 종가: 601.0000]]></description>
   </item>
   <item>
-    <title>US - NASDAQ 100 Index - Forward PE Ratio</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/chart-us---nasdaq-100-index---forward-pe-ratio-121e5e.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/chart-us---nasdaq-100-index---forward-pe-ratio-121e5e.html</guid>
-    <pubDate>Sat, 09 May 2026 23:30:49 -0000</pubDate>
-    <category>거시경제 지표</category>
-    <description><![CDATA[]]></description>
+    <title>[신규상장] 탄다이훙플라스틱 (TPC.VN) - 호치민</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-탄다이훙플라스틱-tpcvn---호치민-86638b.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-탄다이훙플라스틱-tpcvn---호치민-86638b.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 탄다이훙플라스틱
+영문명: TAN DAI HUNG PLASTIC
+티커: TPC.VN
+시장: 호치민 (베트남)
+첫 거래일: 2026-03-16
+거래일수: 3일
+최근 종가: 11,050.0000]]></description>
   </item>
   <item>
-    <title>Getting Arrested in Japan</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-getting-arrested-in-japan-a52dd9.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-09-getting-arrested-in-japan-a52dd9.html</guid>
-    <pubDate>Sat, 09 May 2026 22:56:07 -0000</pubDate>
-    <category>Hacker News</category>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48078647">Comments</a>]]></description>
+    <title>[신규상장] 남부종묘 (SSC.VN) - 호치민</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-남부종묘-sscvn---호치민-f1f36f.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-남부종묘-sscvn---호치민-f1f36f.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 남부종묘
+영문명: SOUTHERN SEED CORPORATION
+티커: SSC.VN
+시장: 호치민 (베트남)
+첫 거래일: 2026-03-11
+거래일수: 11일
+최근 종가: 28,600.0000]]></description>
   </item>
   <item>
-    <title>Show HN: I made a Clojure-like language in Go, boots in 7ms</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-show-hn-i-made-a-clojure-like-language-in-go-boots-2aef9b.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-09-show-hn-i-made-a-clojure-like-language-in-go-boots-2aef9b.html</guid>
-    <pubDate>Sat, 09 May 2026 22:39:52 -0000</pubDate>
-    <category>Hacker News</category>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48076815">Comments</a>]]></description>
+    <title>[신규상장] 사이공연료 (SFC.VN) - 호치민</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-사이공연료-sfcvn---호치민-41342e.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-사이공연료-sfcvn---호치민-41342e.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 사이공연료
+영문명: SAIGON FUEL COMPANY
+티커: SFC.VN
+시장: 호치민 (베트남)
+첫 거래일: 2026-03-11
+거래일수: 16일
+최근 종가: 18,000.0000]]></description>
   </item>
   <item>
-    <title>Zed Editor Theme-Builder</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-zed-editor-theme-builder-9612e2.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-09-zed-editor-theme-builder-9612e2.html</guid>
-    <pubDate>Sat, 09 May 2026 22:39:52 -0000</pubDate>
-    <category>Hacker News</category>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48076651">Comments</a>]]></description>
+    <title>[신규상장] 제5건설 (SC5.VN) - 호치민</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-제5건설-sc5vn---호치민-8cb83f.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-제5건설-sc5vn---호치민-8cb83f.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 제5건설
+영문명: CONSTRUCTION JOINT STOCK CO NO 5
+티커: SC5.VN
+시장: 호치민 (베트남)
+첫 거래일: 2026-03-11
+거래일수: 19일
+최근 종가: 15,950.0000]]></description>
   </item>
   <item>
-    <title>I’ve banned query strings</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-ive-banned-query-strings-19ecd8.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-09-ive-banned-query-strings-19ecd8.html</guid>
-    <pubDate>Sat, 09 May 2026 22:39:52 -0000</pubDate>
-    <category>Hacker News</category>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48076173">Comments</a>]]></description>
+    <title>[신규상장] 세산수력발전 (S4A.VN) - 호치민</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-세산수력발전-s4avn---호치민-e4e4ec.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-세산수력발전-s4avn---호치민-e4e4ec.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 세산수력발전
+영문명: SESAN4A HYDROPOWER
+티커: S4A.VN
+시장: 호치민 (베트남)
+첫 거래일: 2026-03-11
+거래일수: 18일
+최근 종가: 32,000.0000]]></description>
   </item>
   <item>
-    <title>Internet Archive Switzerland</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-internet-archive-switzerland-79683e.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-09-internet-archive-switzerland-79683e.html</guid>
-    <pubDate>Sat, 09 May 2026 22:39:52 -0000</pubDate>
-    <category>Hacker News</category>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48074265">Comments</a>]]></description>
+    <title>[신규상장] 프엉남컬처럴 (PNC.VN) - 호치민</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-프엉남컬처럴-pncvn---호치민-3fdcb6.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-프엉남컬처럴-pncvn---호치민-3fdcb6.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 프엉남컬처럴
+영문명: PHUONG NAM CULTURAL JOINT STOCK CO
+티커: PNC.VN
+시장: 호치민 (베트남)
+첫 거래일: 2026-03-11
+거래일수: 15일
+최근 종가: 29,000.0000]]></description>
   </item>
   <item>
-    <title>Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-09-buns-experimental-rust-rewrite-hits-998-test-compa-edf29c.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-09-buns-experimental-rust-rewrite-hits-998-test-compa-edf29c.html</guid>
-    <pubDate>Sat, 09 May 2026 22:39:52 -0000</pubDate>
-    <category>Hacker News</category>
-    <description><![CDATA[<a href="https://news.ycombinator.com/item?id=48073680">Comments</a>]]></description>
+    <title>[신규상장] HUD1 (HU1.VN) - 호치민</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-hud1-hu1vn---호치민-31ba7d.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-hud1-hu1vn---호치민-31ba7d.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: HUD1
+영문명: HUD1 INVESTMENT AND CONSTRUC
+티커: HU1.VN
+시장: 호치민 (베트남)
+첫 거래일: 2026-03-11
+거래일수: 11일
+최근 종가: 6,800.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 하시스코 (HAS.VN) - 호치민</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-하시스코-hasvn---호치민-aee25f.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-하시스코-hasvn---호치민-aee25f.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 하시스코
+영문명: HACISCO JSC
+티커: HAS.VN
+시장: 호치민 (베트남)
+첫 거래일: 2026-03-11
+거래일수: 16일
+최근 종가: 7,900.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 투언안목재 (GTA.VN) - 호치민</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-투언안목재-gtavn---호치민-253f87.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-투언안목재-gtavn---호치민-253f87.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 투언안목재
+영문명: THUAN AN WOOD PROCESSING
+티커: GTA.VN
+시장: 호치민 (베트남)
+첫 거래일: 2026-03-11
+거래일수: 16일
+최근 종가: 8,400.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 코메코 (COM.VN) - 호치민</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-코메코-comvn---호치민-991b0a.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-코메코-comvn---호치민-991b0a.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 코메코
+영문명: MATERIALS PETROLIUM JSC
+티커: COM.VN
+시장: 호치민 (베트남)
+첫 거래일: 2026-03-11
+거래일수: 18일
+최근 종가: 34,500.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 까마우트레이딩 (CMV.VN) - 호치민</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-까마우트레이딩-cmvvn---호치민-80937d.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-까마우트레이딩-cmvvn---호치민-80937d.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 까마우트레이딩
+영문명: CAMAU TRADING JSC
+티커: CMV.VN
+시장: 호치민 (베트남)
+첫 거래일: 2026-03-12
+거래일수: 13일
+최근 종가: 7,780.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 도인 (7923.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-도인-7923t---도쿄-e75754.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-도인-7923t---도쿄-e75754.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 도인
+영문명: TOIN CORPORATION
+티커: 7923.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-03-11
+거래일수: 11일
+최근 종가: 1,178.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 스기타에이스 (7635.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-스기타에이스-7635t---도쿄-48da6e.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-스기타에이스-7635t---도쿄-48da6e.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 스기타에이스
+영문명: SUGITA ACE CO. LTD.
+티커: 7635.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-03-11
+거래일수: 8일
+최근 종가: 678,447,232.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 하기와라전기홀딩스 (7467.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-하기와라전기홀딩스-7467t---도쿄-e5b6fc.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-하기와라전기홀딩스-7467t---도쿄-e5b6fc.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 하기와라전기홀딩스
+영문명: HAGIWARA ELECTRIC HOLDINGS CO. LTD.
+티커: 7467.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-03-11
+거래일수: 15일
+최근 종가: 3,685.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 파리미키홀딩스 (7455.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-파리미키홀딩스-7455t---도쿄-0eeb9a.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-파리미키홀딩스-7455t---도쿄-0eeb9a.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 파리미키홀딩스
+영문명: PARIS MIKI HOLDINGS INC.
+티커: 7455.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-03-11
+거래일수: 15일
+최근 종가: 578.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 선데이 (7450.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-선데이-7450t---도쿄-744992.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-선데이-7450t---도쿄-744992.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 선데이
+영문명: SUNDAY CO. LTD.
+티커: 7450.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-03-11
+거래일수: 15일
+최근 종가: 1,272.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 사토리전기 (7420.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-사토리전기-7420t---도쿄-dca328.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-사토리전기-7420t---도쿄-dca328.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 사토리전기
+영문명: SATORI ELECTRIC CO. LTD.
+티커: 7420.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-03-11
+거래일수: 15일
+최근 종가: 1,886.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 다이와통신 (7116.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-다이와통신-7116t---도쿄-64e0dc.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-다이와통신-7116t---도쿄-64e0dc.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 다이와통신
+영문명: DAIWA TSUSHIN CO. LTD
+티커: 7116.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-03-11
+거래일수: 9일
+최근 종가: 178,503,888.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 닛세이수지 (6293.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-닛세이수지-6293t---도쿄-bfe4de.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-닛세이수지-6293t---도쿄-bfe4de.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 닛세이수지
+영문명: NISSEI PLASTIC INDUSTRIAL CO. LTD.
+티커: 6293.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-03-11
+거래일수: 15일
+최근 종가: 873.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 도요이노벡스 (6210.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-도요이노벡스-6210t---도쿄-47f482.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-도요이노벡스-6210t---도쿄-47f482.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 도요이노벡스
+영문명: TOYO MACHINERY & METAL CO. LTD.
+티커: 6210.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-03-11
+거래일수: 15일
+최근 종가: 655.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] FFF 홀딩스 (565A.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-fff-홀딩스-565at---도쿄-f48a81.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-fff-홀딩스-565at---도쿄-f48a81.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: FFF 홀딩스
+영문명: FFF HOLDINGS CO.LTD
+티커: 565A.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-05-01
+거래일수: 4일
+최근 종가: 961.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 호유 (562A.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-호유-562at---도쿄-19bedd.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-호유-562at---도쿄-19bedd.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 호유
+영문명: HOUYOU INC.
+티커: 562A.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-04-24
+거래일수: 8일
+최근 종가: 1,000.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 마크스라이프 (561A.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-마크스라이프-561at---도쿄-875bb2.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-마크스라이프-561at---도쿄-875bb2.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 마크스라이프
+영문명: MARKSLIFE CO. LTD.
+티커: 561A.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-05-07
+거래일수: 3일
+최근 종가: 5,000.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 오카다 코퍼레이션 (560A.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-오카다-코퍼레이션-560at---도쿄-c70089.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-오카다-코퍼레이션-560at---도쿄-c70089.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 오카다 코퍼레이션
+영문명: OKADA CORPORATION INC.
+티커: 560A.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-04-15
+거래일수: 15일
+최근 종가: 1,123.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 우메노야도 브루어리 (559A.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-우메노야도-브루어리-559at---도쿄-6741df.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-우메노야도-브루어리-559at---도쿄-6741df.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 우메노야도 브루어리
+영문명: UMENOYADO BREWERY CO. LTD.
+티커: 559A.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-04-24
+거래일수: 8일
+최근 종가: 925.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 스퀴즈 (558A.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-스퀴즈-558at---도쿄-92410e.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-스퀴즈-558at---도쿄-92410e.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 스퀴즈
+영문명: SQUEEZE INC.
+티커: 558A.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-04-22
+거래일수: 10일
+최근 종가: 3,855.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 페리에스트 (557A.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-페리에스트-557at---도쿄-9eb03b.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-페리에스트-557at---도쿄-9eb03b.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 페리에스트
+영문명: FERIEST CO. LTD.
+티커: 557A.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-04-20
+거래일수: 12일
+최근 종가: 2,150.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 이누네코-세이카쓰 (556A.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-이누네코-세이카쓰-556at---도쿄-61b4e6.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-이누네코-세이카쓰-556at---도쿄-61b4e6.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 이누네코-세이카쓰
+영문명: INUNEKO-SEIKATSU CO. LTD.
+티커: 556A.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-04-23
+거래일수: 9일
+최근 종가: 4,105.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 호쿠오 그룹 (555A.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-호쿠오-그룹-555at---도쿄-40996b.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-호쿠오-그룹-555at---도쿄-40996b.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 호쿠오 그룹
+영문명: HOKUOH GROUP INC.
+티커: 555A.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-04-22
+거래일수: 10일
+최근 종가: 2,000.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 바톤즈 (554A.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-바톤즈-554at---도쿄-e07851.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-바톤즈-554at---도쿄-e07851.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 바톤즈
+영문명: BATONZ.CO. LTD.
+티커: 554A.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-04-22
+거래일수: 10일
+최근 종가: 1,701.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 소프트텍스 (550A.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-소프트텍스-550at---도쿄-6511be.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-소프트텍스-550at---도쿄-6511be.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 소프트텍스
+영문명: SOFTTEX CO. LTD.
+티커: 550A.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-04-09
+거래일수: 19일
+최근 종가: 2,476.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 구로사키하리마 (5352.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-구로사키하리마-5352t---도쿄-50f3ea.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-구로사키하리마-5352t---도쿄-50f3ea.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 구로사키하리마
+영문명: KROSAKI HARIMA CORPORATION
+티커: 5352.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-03-11
+거래일수: 13일
+최근 종가: 4,180.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 도호시스템사이언스 (4333.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-도호시스템사이언스-4333t---도쿄-6eba21.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-도호시스템사이언스-4333t---도쿄-6eba21.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 도호시스템사이언스
+영문명: TOHO SYSTEM SCIENCE CO. LTD.
+티커: 4333.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-03-11
+거래일수: 15일
+최근 종가: 1,144.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 란도컴퓨터 (3924.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-란도컴퓨터-3924t---도쿄-e73a51.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-란도컴퓨터-3924t---도쿄-e73a51.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 란도컴퓨터
+영문명: R&D COMPUTER CO. LTD.
+티커: 3924.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-03-11
+거래일수: 15일
+최근 종가: 915.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 산유건설 (1841.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-산유건설-1841t---도쿄-3822bf.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-산유건설-1841t---도쿄-3822bf.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 산유건설
+영문명: SANYU CONSTRUCTION CO. LTD.
+티커: 1841.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-03-11
+거래일수: 11일
+최근 종가: 146,438,512.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] NANCHANG SANRUI INTELLIGENCE TECHNO (301696.SZ) - 심천</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-nanchang-sanrui-intelligence-techno-301696sz--a67de5.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-nanchang-sanrui-intelligence-techno-301696sz--a67de5.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: NANCHANG SANRUI INTELLIGENCE TECHNO
+영문명: NANCHANG SANRUI INTELLIGENCE TECHNO
+티커: 301696.SZ
+시장: 심천 (중국)
+첫 거래일: 2026-04-10
+거래일수: 19일
+최근 종가: 123.0800]]></description>
+  </item>
+  <item>
+    <title>[신규상장] DAPUSTOR CORPORATION (301666.SZ) - 심천</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-dapustor-corporation-301666sz---심천-1af0c1.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-dapustor-corporation-301666sz---심천-1af0c1.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: DAPUSTOR CORPORATION
+영문명: DAPUSTOR CORPORATION
+티커: 301666.SZ
+시장: 심천 (중국)
+첫 거래일: 2026-04-16
+거래일수: 15일
+최근 종가: 501.1700]]></description>
+  </item>
+  <item>
+    <title>[신규상장] WUXI RICH INTELLIGENT EQUIPMENT CO (301599.SZ) - 심천</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-wuxi-rich-intelligent-equipment-co-301599sz---841c90.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-wuxi-rich-intelligent-equipment-co-301599sz---841c90.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: WUXI RICH INTELLIGENT EQUIPMENT CO
+영문명: WUXI RICH INTELLIGENT EQUIPMENT CO
+티커: 301599.SZ
+시장: 심천 (중국)
+첫 거래일: 2026-04-30
+거래일수: 5일
+최근 종가: 71.7500]]></description>
+  </item>
+  <item>
+    <title>[신규상장] SHANGSHUI SMARTECH LTD (301513.SZ) - 심천</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-shangshui-smartech-ltd-301513sz---심천-6ff8f9.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-shangshui-smartech-ltd-301513sz---심천-6ff8f9.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: SHANGSHUI SMARTECH LTD
+영문명: SHANGSHUI SMARTECH LTD
+티커: 301513.SZ
+시장: 심천 (중국)
+첫 거래일: 2026-04-17
+거래일수: 14일
+최근 종가: 87.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] HANGZHOU FUEN CO LTD (001312.SZ) - 심천</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-hangzhou-fuen-co-ltd-001312sz---심천-e763c4.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-hangzhou-fuen-co-ltd-001312sz---심천-e763c4.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: HANGZHOU FUEN CO LTD
+영문명: HANGZHOU FUEN CO LTD
+티커: 001312.SZ
+시장: 심천 (중국)
+첫 거래일: 2026-04-21
+거래일수: 12일
+최근 종가: 24.7800]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 성커나노 (688757.SS) - 상해</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-성커나노-688757ss---상해-122348.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-성커나노-688757ss---상해-122348.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 성커나노
+영문명: WINTECH NANO (SUZHOU) CO LTD
+티커: 688757.SS
+시장: 상해 (중국)
+첫 거래일: 2026-04-14
+거래일수: 17일
+최근 종가: 31.3000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 융제신소재 (603271.SS) - 상해</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-융제신소재-603271ss---상해-d7f245.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-융제신소재-603271ss---상해-d7f245.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 융제신소재
+영문명: YONG JIE NEW MATERIAL CO LTD
+티커: 603271.SS
+시장: 상해 (중국)
+첫 거래일: 2026-04-14
+거래일수: 17일
+최근 종가: 50.5900]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 장난신소재 (603124.SS) - 상해</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-장난신소재-603124ss---상해-3e1040.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-장난신소재-603124ss---상해-3e1040.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 장난신소재
+영문명: JIANGXI JIANGNAN NEW MATERIAL TECH
+티커: 603124.SS
+시장: 상해 (중국)
+첫 거래일: 2026-04-14
+거래일수: 17일
+최근 종가: 133.4500]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 유나이티드 애퀴지션 I 유닛 (UAC-UN) - AMEX</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-유나이티드-애퀴지션-i-유닛-uac-un---amex-82c3f5.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-유나이티드-애퀴지션-i-유닛-uac-un---amex-82c3f5.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 유나이티드 애퀴지션 I 유닛
+영문명: UNITED ACQUISITION CORPORATION I UNITS CONS OF 1 CL A ORD &
+티커: UAC-UN
+시장: AMEX (미국)
+첫 거래일: 2026-03-11
+거래일수: 14일
+최근 종가: 9.8900]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 실버 보우 마이닝 (SBMT) - AMEX</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-실버-보우-마이닝-sbmt---amex-75178f.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-실버-보우-마이닝-sbmt---amex-75178f.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 실버 보우 마이닝
+영문명: SILVER BOW MINING CORP
+티커: SBMT
+시장: AMEX (미국)
+첫 거래일: 2026-04-30
+거래일수: 8일
+최근 종가: 10.3400]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 레어 어스 아메리카스 (REA) - AMEX</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-레어-어스-아메리카스-rea---amex-01d7ae.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-레어-어스-아메리카스-rea---amex-01d7ae.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 레어 어스 아메리카스
+영문명: RARE EARTHS AMERICAS INC
+티커: REA
+시장: AMEX (미국)
+첫 거래일: 2026-05-06
+거래일수: 4일
+최근 종가: 24.1000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 레가토 머저 3 유닛 (LEGT-UN) - AMEX</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-레가토-머저-3-유닛-legt-un---amex-9db2e2.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-신규상장-레가토-머저-3-유닛-legt-un---amex-9db2e2.html</guid>
+    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 레가토 머저 3 유닛
+영문명: LEGATO MERGER CORP III UNITS 1 ORD & 1/2 WT
+티커: LEGT-UN
+시장: AMEX (미국)
+첫 거래일: 2026-03-26
+거래일수: 2일
+최근 종가: 11.4500]]></description>
   </item>
   </channel>
 </rss>
