@@ -6,12 +6,6 @@ site:
   max_posts: 500   # 누적 최대 포스트 수
 
 sources:
-  # ── RSS 소스 ──────────────────────────────────────────────────────────────
-  - name: "Hacker News"
-    type: "rss"
-    url: "https://news.ycombinator.com/rss"
-    count: 5
-
   # ── 신규상장주 트래커 ─────────────────────────────────────────────────────
   - name: "신규상장주 트래커"
     type: "ipo_tracker"
