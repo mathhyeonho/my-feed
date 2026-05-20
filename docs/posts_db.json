@@ -1,6 +1,295 @@
 {
   "posts": [
     {
+      "id": "fdec8d55ddfd9056fa84064e8e9103c9",
+      "slug": "2026-05-20-us---nasdaq-100-index---forward-pe-ratio-2026-05-2-fdec8d",
+      "title": "US - NASDAQ 100 Index - Forward PE Ratio (2026-05-20)",
+      "url": "https://en.macromicro.me/series/23955/nasdaq-100-pe",
+      "content": "",
+      "summary": "",
+      "source_name": "거시경제 지표",
+      "published_at": "2026-05-20T02:49:41.940651",
+      "added_at": "2026-05-20T02:49:41.942437",
+      "extra": {
+        "type": "line_chart",
+        "title": "US - NASDAQ 100 Index - Forward PE Ratio",
+        "data": [
+          {
+            "x": 2001.0,
+            "y": 36.66
+          },
+          {
+            "x": 2001.496,
+            "y": 99.73
+          },
+          {
+            "x": 2001.999,
+            "y": 56.23
+          },
+          {
+            "x": 2002.495,
+            "y": 13.61
+          },
+          {
+            "x": 2002.999,
+            "y": 23.56
+          },
+          {
+            "x": 2003.494,
+            "y": 26.72
+          },
+          {
+            "x": 2003.998,
+            "y": 26.01
+          },
+          {
+            "x": 2004.496,
+            "y": 22.23
+          },
+          {
+            "x": 2005.0,
+            "y": 26.29
+          },
+          {
+            "x": 2005.496,
+            "y": 27.64
+          },
+          {
+            "x": 2005.999,
+            "y": 27.29
+          },
+          {
+            "x": 2006.495,
+            "y": 23.72
+          },
+          {
+            "x": 2006.999,
+            "y": 24.97
+          },
+          {
+            "x": 2007.494,
+            "y": 25.36
+          },
+          {
+            "x": 2007.998,
+            "y": 20.83
+          },
+          {
+            "x": 2008.496,
+            "y": 20.73
+          },
+          {
+            "x": 2009.0,
+            "y": 14.61
+          },
+          {
+            "x": 2009.496,
+            "y": 20.0
+          },
+          {
+            "x": 2009.999,
+            "y": 16.28
+          },
+          {
+            "x": 2010.495,
+            "y": 15.31
+          },
+          {
+            "x": 2010.999,
+            "y": 15.63
+          },
+          {
+            "x": 2011.494,
+            "y": 14.29
+          },
+          {
+            "x": 2011.998,
+            "y": 13.24
+          },
+          {
+            "x": 2012.496,
+            "y": 14.19
+          },
+          {
+            "x": 2013.0,
+            "y": 14.44
+          },
+          {
+            "x": 2013.496,
+            "y": 17.17
+          },
+          {
+            "x": 2013.999,
+            "y": 18.03
+          },
+          {
+            "x": 2014.495,
+            "y": 19.0
+          },
+          {
+            "x": 2014.999,
+            "y": 17.89
+          },
+          {
+            "x": 2015.494,
+            "y": 20.17
+          },
+          {
+            "x": 2015.998,
+            "y": 18.0
+          },
+          {
+            "x": 2016.496,
+            "y": 20.19
+          },
+          {
+            "x": 2017.0,
+            "y": 19.4
+          },
+          {
+            "x": 2017.496,
+            "y": 21.78
+          },
+          {
+            "x": 2017.999,
+            "y": 21.4
+          },
+          {
+            "x": 2018.495,
+            "y": 20.99
+          },
+          {
+            "x": 2018.999,
+            "y": 19.01
+          },
+          {
+            "x": 2019.494,
+            "y": 21.65
+          },
+          {
+            "x": 2019.998,
+            "y": 22.97
+          },
+          {
+            "x": 2020.496,
+            "y": 31.46
+          },
+          {
+            "x": 2021.0,
+            "y": 29.46
+          },
+          {
+            "x": 2021.496,
+            "y": 26.84
+          },
+          {
+            "x": 2021.999,
+            "y": 25.53
+          },
+          {
+            "x": 2022.495,
+            "y": 22.39
+          },
+          {
+            "x": 2022.999,
+            "y": 22.92
+          },
+          {
+            "x": 2023.494,
+            "y": 25.84
+          },
+          {
+            "x": 2023.998,
+            "y": 31.02
+          },
+          {
+            "x": 2024.496,
+            "y": 25.54
+          },
+          {
+            "x": 2025.0,
+            "y": 26.52
+          },
+          {
+            "x": 2025.496,
+            "y": 27.03
+          },
+          {
+            "x": 2025.999,
+            "y": 24.81
+          },
+          {
+            "x": 2026.246,
+            "y": 23.14
+          },
+          {
+            "x": 2026.328,
+            "y": 23.77
+          }
+        ]
+      }
+    },
+    {
+      "id": "f7d36154fd8170ac6f3c0a69d54c66d0",
+      "slug": "2026-05-20-신규상장-케이피항공산업-288180kq---kosdaq-f7d361",
+      "title": "[신규상장] 케이피항공산업 (288180.KQ) - KOSDAQ",
+      "url": "https://finance.yahoo.com/quote/288180.KQ",
+      "content": "종목명: 케이피항공산업\n티커: 288180.KQ\n시장: KOSDAQ (한국)\n첫 거래일: 2026-05-19\n거래일수: 1일\n최근 종가: 43,850.0000",
+      "summary": "",
+      "source_name": "신규상장주 트래커",
+      "published_at": "2026-05-20T02:49:41.387204+00:00",
+      "added_at": "2026-05-20T02:49:41.942310",
+      "extra": {}
+    },
+    {
+      "id": "6d0a471065add26ba08486dd362ee7da",
+      "slug": "2026-05-20-신규상장-vernal-capital-acquisition-corp-veca---nyse-6d0a47",
+      "title": "[신규상장] VERNAL CAPITAL ACQUISITION CORP (VECA) - NYSE",
+      "url": "https://finance.yahoo.com/quote/VECA",
+      "content": "종목명: VERNAL CAPITAL ACQUISITION CORP\n영문명: VERNAL CAPITAL ACQUISITION CORP\n티커: VECA\n시장: NYSE (미국)\n첫 거래일: 2026-05-19\n거래일수: 1일\n최근 종가: 9.9100",
+      "summary": "",
+      "source_name": "신규상장주 트래커",
+      "published_at": "2026-05-20T02:49:34.181216+00:00",
+      "added_at": "2026-05-20T02:49:41.942249",
+      "extra": {}
+    },
+    {
+      "id": "094dd087b4c19d62c4ff07ed308d7502",
+      "slug": "2026-05-20-신규상장-inflection-point-acquis-corp-ipfx---nasdaq-094dd0",
+      "title": "[신규상장] INFLECTION POINT ACQUIS CORP (IPFX) - NASDAQ",
+      "url": "https://finance.yahoo.com/quote/IPFX",
+      "content": "종목명: INFLECTION POINT ACQUIS CORP\n영문명: INFLECTION POINT ACQUIS CORP\n티커: IPFX\n시장: NASDAQ (미국)\n첫 거래일: 2026-05-18\n거래일수: 2일\n최근 종가: 9.9700",
+      "summary": "",
+      "source_name": "신규상장주 트래커",
+      "published_at": "2026-05-20T02:49:32.463961+00:00",
+      "added_at": "2026-05-20T02:49:41.942175",
+      "extra": {}
+    },
+    {
+      "id": "ced978386329c9d6fb9f84bd8c5dbb59",
+      "slug": "2026-05-20-신규상장-future-money-acquisition-corp-fmac---nasdaq-ced978",
+      "title": "[신규상장] FUTURE MONEY ACQUISITION CORP (FMAC) - NASDAQ",
+      "url": "https://finance.yahoo.com/quote/FMAC",
+      "content": "종목명: FUTURE MONEY ACQUISITION CORP\n영문명: FUTURE MONEY ACQUISITION CORP\n티커: FMAC\n시장: NASDAQ (미국)\n첫 거래일: 2026-05-19\n거래일수: 1일\n최근 종가: 9.9400",
+      "summary": "",
+      "source_name": "신규상장주 트래커",
+      "published_at": "2026-05-20T02:49:32.463895+00:00",
+      "added_at": "2026-05-20T02:49:41.942074",
+      "extra": {}
+    },
+    {
+      "id": "c3a8633b045d21098bf39fa8d4b9da40",
+      "slug": "2026-05-20-신규상장-amanat-acquisition-corp-aman---nasdaq-c3a863",
+      "title": "[신규상장] AMANAT ACQUISITION CORP (AMAN) - NASDAQ",
+      "url": "https://finance.yahoo.com/quote/AMAN",
+      "content": "종목명: AMANAT ACQUISITION CORP\n영문명: AMANAT ACQUISITION CORP\n티커: AMAN\n시장: NASDAQ (미국)\n첫 거래일: 2026-05-19\n거래일수: 1일\n최근 종가: 10.0100",
+      "summary": "",
+      "source_name": "신규상장주 트래커",
+      "published_at": "2026-05-20T02:49:32.463753+00:00",
+      "added_at": "2026-05-20T02:49:41.941993",
+      "extra": {}
+    },
+    {
       "id": "b66f76e44d3c9f8d83b2c15d9495ac84",
       "slug": "2026-05-18-신규상장-d-plus-co-ltd-567at---도쿄-b66f76",
       "title": "[신규상장] D-PLUS CO. LTD. (567A.T) - 도쿄",
@@ -2598,149 +2887,155 @@
     }
   ],
   "seen_ids": [
-    "53eef42c76c81eeacc93c20ada8ef2e0",
-    "a877e5273669d275d6e78a6886bf2234",
-    "e763c4930af72af4905746d9cdbd4927",
-    "0ff1479a0ca6fd813be656cc17a6b738",
-    "86638bf047ec72baa0b789b14afb06b1",
-    "cfa3c64fae66a83f57bd3bb3c59b4f9c",
-    "05f19dcf211ae5208537cb61904b3cbd",
-    "e07851990961d71cc6cdfae9b64a0b53",
-    "4eb73e0452c5fea4ff2f69606431f977",
-    "48da6e488bda27d166b6573776680fe4",
-    "d63fb201f5618a29535cdc159ca2bd7d",
-    "8cb83f4a6edbaa7919d18c7d0d6a8a22",
-    "783b75ba15fcb0f44a90c19a7db28c10",
-    "54caf8b6c75e0ef42192ab02aeb260b5",
-    "19bedd7475466b12bf9bd03e21e24855",
-    "122348dbbb81d86e46239ebdd366c418",
-    "9a00a8f17cd66cd55ca6f21afe0f012f",
-    "875bb259c9d363c226d37206f839daf4",
-    "e5b6fc5c8583d5e6f659f458aab9cf23",
-    "c2c6b378b79c98fec0724bea9c6bd3ab",
-    "65216cc82c05f6abad63f933103ea4e9",
-    "d484f6cc9ebbb42713e9afa64b80f090",
-    "a10c285f08d2601b1ac2932a64d63efc",
-    "6511be1175b10d0814e5e96873e74157",
-    "253f87aad7976e9cb995aa7771fa30c2",
-    "75178f014813a7ab62d65950d7b8670c",
-    "47f482cad10dbee0b17e656817ad0f26",
-    "0eeb9a79edfb081b781350925b4105c2",
-    "f4247aa401e234496506a4c0e6bb48be",
-    "64e0dcc356e7a9a3a95e1aea94715cdd",
-    "c13372a28137fac6518827a5fc904bab",
-    "d7be64ecf5a2ccaa9be10014b2de0faa",
-    "a37882d5233a7cfe7edb3ea45a769ed2",
-    "bbf8619a9375454117b431af3f0afc8a",
-    "27d2215078714007e0014b6accc1c25d",
-    "1af0c14c944fb3a760e8158db5f1b4a5",
-    "122b855978f64f1b43dee48f1ba28ea8",
-    "8cc762a4447c168dd16b299675145872",
-    "629d2ed19a0be52f025ce30060a37416",
-    "d3d4c5deb455ac79dd5ff47c88bd65d9",
-    "a03ea74d416ced824f1429719f954ea5",
-    "d7f2453469f352845c7002ff213c3c8d",
-    "b35bbbf46137381ad1a7d417d6cb68da",
-    "fddb098e9e592d4476698d0a36404ab0",
-    "57b0b61284e411a7dbdd485a1675f310",
-    "e73a51006152398ca4f1a65279dcc2f9",
-    "78fb9983e0b0f93fbc945e3cca14dc89",
-    "7fb189ce1096b0bec8d96bd55101279b",
-    "80937d0b56b64f1b00624c48f5e88d7f",
-    "82a24424dbffe67c1f8f04bc282acae2",
-    "b66f76e44d3c9f8d83b2c15d9495ac84",
-    "6ff8f9e910a7ba66c2a4936f69980e0b",
-    "9eb03b889efe37a47e9490a0db86840c",
-    "744992791431eab3d17e1fbc12797a09",
-    "a840f97564574b54956c385088b90e81",
-    "c09c1c8f3bb2986e76a0b0ed4738dac9",
-    "88a20081bfe2175ec1b6fe31b0c795c9",
-    "6741df49dfbe6135debd5a752d05ae1a",
-    "9c1bfbf9be61cbc001e6268b737824f4",
-    "a340387844c0c8c2657341280b23c5d7",
-    "622bc80fa7faa5b7d02107fc63a35945",
-    "f0f137607e625cb9f8526b260bab469e",
-    "257244e647589e82efac12954de2e612",
-    "8a3008ab687160e2b9cafbf13c648ec3",
-    "991b0a8de9344269070a1ea18ca712c3",
-    "2da4b226db96161b07500e71e8de99f5",
-    "043e72811c8e3551936b60eb89b525ae",
-    "8f482bce0253389b120740d7547d9dd2",
-    "3822bf9709027b6f694dd631e0e2b34c",
-    "d2f2420e655487947f60a792d606c8ba",
-    "26cccf59a7d14c2d03800148e0bbe3d9",
-    "5ad757145b963aa81e838ae7c3aaf85f",
-    "41342e0adfbc8499c585af6fe0e78f51",
-    "eaf595b085f0ccd788571f7806b99803",
-    "7c330ac9b15e654af155220157dbef70",
-    "17bf5e3ce903e23583f73371e8872b59",
-    "d709d9734e1401fc719d664dff5deb40",
-    "6a00bbe89a4baaac040a446af50ae81d",
-    "d9026102b0f716c3ed1423337fb130b4",
-    "f1f36ff59e4c5edc16f9b3af8aad601b",
-    "c70089a60f1e018b7628547c418303ef",
-    "16e0ece8711d3d620c7a31461be66a66",
-    "0854565db192adce686c35cdd0b4cdd3",
-    "3cd06f56c372519dc2a41ef40ebd2c6e",
-    "f2a807bbbf50344f2885c2875048922c",
-    "dca32864740910f4aaaf463f308dfbec",
-    "47d65bcb2326e8496d73fc07f59acfe0",
-    "953f7f7f3753b2269a5016665466ace7",
-    "b24436a7bab0fa6dc89ad0684c6fc675",
-    "8a30955faea8bbb64242ac91d3a9c762",
-    "841c90d4a97440a1e4a2ab56f3fc3136",
-    "c6f815a1fe8ed462d6a8e1071db4c6be",
-    "f48a81977ea0800f062bf5359f8513cd",
-    "3e1040656ef153ec92b5bad4ad377b96",
-    "bd10eafa246e35972df9936e3944eaba",
-    "b291bffc461d9f2bf4612fa2fb89bf83",
-    "057536d02c90aff695d34caad59a92d5",
-    "d8d0d6e760d491d9f206ee0ea23ef005",
-    "f88e362cb1aa45774502ba1b87866f00",
-    "5e736f87c5d3edb251189028129d7a1a",
-    "16ed14b182e5ca34e130767db97feaa4",
-    "aee25ff82f39495285a481f97aca2b02",
-    "121e5e62b6eef35254d00c3c60049ee1",
-    "803acdc5efd389253013b9bc13028881",
-    "92410e5b0718a49c1a0a5290cca505ce",
-    "12bf7a83979ddc87c4c2db0f50607320",
-    "e7bd708d687b7bad40907d685f7d4b1f",
-    "01624d03ded28a7da75c15691c3179b7",
-    "82c3f5a27e4f36606fd95ff39ffc92a6",
-    "e7575455127138dfd4199b8690243221",
-    "a19eb52c81b82e9813895523776d2d07",
-    "3fdcb608c4e52b0e9ae33f1ebcda55b3",
-    "2302898c5c2ad8a037a0cdb8b3e384c8",
-    "40996be715f7e7e653c07f09cc86748d",
-    "be5d512947d5e677af0c246b2719a7cc",
-    "bfe4dec9f0b5b054de710f24a770d459",
-    "8a70bba0b34c871f850f57e3bf8c2d4b",
-    "01d7aeb2188c9aa80584525ec65c2aa3",
-    "18bee1a2924262c852d83c51b59e8e86",
-    "784cf250ec1c46e27a54b0c040f7f7a9",
-    "f6f883d5c8afbd2795df69bfcdc3fcb7",
-    "e4e4ecd49625a2e8da37d1e504ae2308",
-    "9db2e2c4fcff5c4ccfb7123cdbcc837e",
     "a67de5d17069d95c109880ed52be89bc",
+    "121e5e62b6eef35254d00c3c60049ee1",
     "85b4386f911a5c8f1a7a87c7fd085755",
-    "4eb63ae043390f49e9ebbbe9bf9022f0",
-    "728ecd1e799b93a326abe96a783bcd01",
-    "d413b4669d43fb387e84e9700f917530",
-    "31ba7dc02b170f7addbdcdc9916abe67",
-    "3e085537654d7f05d0a3641b9a1f1ec3",
-    "b591c78490d73799a289367593e367cc",
-    "73a9b1687e0f232b7078453db4b907dd",
-    "351e7b0e8cbd3072749e180de3bcec60",
-    "b26938271fbf97c0f0abbe248d70aabc",
-    "1e92cfb3ebc003f80f15554966ee9b1b",
-    "277161278324e397dc4ad2bcd7e0eed3",
-    "6eba21038e1fad4f5da41554f2bb53ff",
-    "e318354487cb8c7e32f232368c9fb08c",
+    "a877e5273669d275d6e78a6886bf2234",
+    "f6f883d5c8afbd2795df69bfcdc3fcb7",
+    "122348dbbb81d86e46239ebdd366c418",
+    "3822bf9709027b6f694dd631e0e2b34c",
+    "fddb098e9e592d4476698d0a36404ab0",
+    "057536d02c90aff695d34caad59a92d5",
     "d1c0855eef71d3a3929a588106544842",
+    "d413b4669d43fb387e84e9700f917530",
+    "991b0a8de9344269070a1ea18ca712c3",
+    "8a30955faea8bbb64242ac91d3a9c762",
+    "9eb03b889efe37a47e9490a0db86840c",
+    "6a00bbe89a4baaac040a446af50ae81d",
+    "043e72811c8e3551936b60eb89b525ae",
+    "f7d36154fd8170ac6f3c0a69d54c66d0",
+    "aee25ff82f39495285a481f97aca2b02",
+    "2da4b226db96161b07500e71e8de99f5",
+    "bfe4dec9f0b5b054de710f24a770d459",
+    "841c90d4a97440a1e4a2ab56f3fc3136",
+    "3e085537654d7f05d0a3641b9a1f1ec3",
+    "953f7f7f3753b2269a5016665466ace7",
+    "9db2e2c4fcff5c4ccfb7123cdbcc837e",
+    "bd10eafa246e35972df9936e3944eaba",
     "61b4e6c1feb52e99129ae5ffb7ed4978",
-    "2a49288fcd1d03e03babdba12b3265d7",
+    "c3a8633b045d21098bf39fa8d4b9da40",
+    "dca32864740910f4aaaf463f308dfbec",
+    "53eef42c76c81eeacc93c20ada8ef2e0",
+    "3cd06f56c372519dc2a41ef40ebd2c6e",
+    "88a20081bfe2175ec1b6fe31b0c795c9",
+    "57b0b61284e411a7dbdd485a1675f310",
+    "4eb63ae043390f49e9ebbbe9bf9022f0",
+    "d709d9734e1401fc719d664dff5deb40",
+    "9c1bfbf9be61cbc001e6268b737824f4",
+    "d7be64ecf5a2ccaa9be10014b2de0faa",
+    "c13372a28137fac6518827a5fc904bab",
+    "803acdc5efd389253013b9bc13028881",
+    "a840f97564574b54956c385088b90e81",
+    "01624d03ded28a7da75c15691c3179b7",
+    "c2c6b378b79c98fec0724bea9c6bd3ab",
+    "d9026102b0f716c3ed1423337fb130b4",
+    "a03ea74d416ced824f1429719f954ea5",
+    "64e0dcc356e7a9a3a95e1aea94715cdd",
+    "19bedd7475466b12bf9bd03e21e24855",
+    "47f482cad10dbee0b17e656817ad0f26",
+    "351e7b0e8cbd3072749e180de3bcec60",
+    "e763c4930af72af4905746d9cdbd4927",
+    "48da6e488bda27d166b6573776680fe4",
+    "6ff8f9e910a7ba66c2a4936f69980e0b",
+    "622bc80fa7faa5b7d02107fc63a35945",
+    "bbf8619a9375454117b431af3f0afc8a",
+    "16ed14b182e5ca34e130767db97feaa4",
+    "d2f2420e655487947f60a792d606c8ba",
+    "4eb73e0452c5fea4ff2f69606431f977",
+    "6741df49dfbe6135debd5a752d05ae1a",
+    "65216cc82c05f6abad63f933103ea4e9",
+    "b35bbbf46137381ad1a7d417d6cb68da",
+    "17bf5e3ce903e23583f73371e8872b59",
+    "31ba7dc02b170f7addbdcdc9916abe67",
+    "d8d0d6e760d491d9f206ee0ea23ef005",
+    "75178f014813a7ab62d65950d7b8670c",
+    "875bb259c9d363c226d37206f839daf4",
     "7e2c8cf614e44acfc2a60e6f235907d7",
+    "b66f76e44d3c9f8d83b2c15d9495ac84",
+    "e7bd708d687b7bad40907d685f7d4b1f",
+    "8f482bce0253389b120740d7547d9dd2",
+    "257244e647589e82efac12954de2e612",
+    "82c3f5a27e4f36606fd95ff39ffc92a6",
+    "728ecd1e799b93a326abe96a783bcd01",
+    "d484f6cc9ebbb42713e9afa64b80f090",
+    "9a00a8f17cd66cd55ca6f21afe0f012f",
+    "80937d0b56b64f1b00624c48f5e88d7f",
+    "e7575455127138dfd4199b8690243221",
+    "eaf595b085f0ccd788571f7806b99803",
+    "277161278324e397dc4ad2bcd7e0eed3",
+    "40996be715f7e7e653c07f09cc86748d",
+    "c09c1c8f3bb2986e76a0b0ed4738dac9",
+    "3e1040656ef153ec92b5bad4ad377b96",
+    "d7f2453469f352845c7002ff213c3c8d",
+    "8a70bba0b34c871f850f57e3bf8c2d4b",
+    "6d0a471065add26ba08486dd362ee7da",
+    "41342e0adfbc8499c585af6fe0e78f51",
+    "094dd087b4c19d62c4ff07ed308d7502",
+    "784cf250ec1c46e27a54b0c040f7f7a9",
+    "6511be1175b10d0814e5e96873e74157",
+    "783b75ba15fcb0f44a90c19a7db28c10",
+    "73a9b1687e0f232b7078453db4b907dd",
+    "82a24424dbffe67c1f8f04bc282acae2",
+    "f2a807bbbf50344f2885c2875048922c",
+    "d3d4c5deb455ac79dd5ff47c88bd65d9",
+    "8cb83f4a6edbaa7919d18c7d0d6a8a22",
+    "253f87aad7976e9cb995aa7771fa30c2",
+    "1af0c14c944fb3a760e8158db5f1b4a5",
+    "8cc762a4447c168dd16b299675145872",
+    "01d7aeb2188c9aa80584525ec65c2aa3",
+    "e318354487cb8c7e32f232368c9fb08c",
     "40b3785d9389949f42e4d65b229e9125",
-    "50f3eaaa266a4bd1f7b41fe947b7f726"
+    "be5d512947d5e677af0c246b2719a7cc",
+    "2302898c5c2ad8a037a0cdb8b3e384c8",
+    "e5b6fc5c8583d5e6f659f458aab9cf23",
+    "f88e362cb1aa45774502ba1b87866f00",
+    "f0f137607e625cb9f8526b260bab469e",
+    "05f19dcf211ae5208537cb61904b3cbd",
+    "f4247aa401e234496506a4c0e6bb48be",
+    "5e736f87c5d3edb251189028129d7a1a",
+    "16e0ece8711d3d620c7a31461be66a66",
+    "50f3eaaa266a4bd1f7b41fe947b7f726",
+    "47d65bcb2326e8496d73fc07f59acfe0",
+    "a37882d5233a7cfe7edb3ea45a769ed2",
+    "c6f815a1fe8ed462d6a8e1071db4c6be",
+    "a19eb52c81b82e9813895523776d2d07",
+    "d63fb201f5618a29535cdc159ca2bd7d",
+    "a10c285f08d2601b1ac2932a64d63efc",
+    "0854565db192adce686c35cdd0b4cdd3",
+    "629d2ed19a0be52f025ce30060a37416",
+    "7c330ac9b15e654af155220157dbef70",
+    "e73a51006152398ca4f1a65279dcc2f9",
+    "b24436a7bab0fa6dc89ad0684c6fc675",
+    "c70089a60f1e018b7628547c418303ef",
+    "12bf7a83979ddc87c4c2db0f50607320",
+    "744992791431eab3d17e1fbc12797a09",
+    "b591c78490d73799a289367593e367cc",
+    "8a3008ab687160e2b9cafbf13c648ec3",
+    "78fb9983e0b0f93fbc945e3cca14dc89",
+    "e4e4ecd49625a2e8da37d1e504ae2308",
+    "18bee1a2924262c852d83c51b59e8e86",
+    "27d2215078714007e0014b6accc1c25d",
+    "7fb189ce1096b0bec8d96bd55101279b",
+    "54caf8b6c75e0ef42192ab02aeb260b5",
+    "cfa3c64fae66a83f57bd3bb3c59b4f9c",
+    "f48a81977ea0800f062bf5359f8513cd",
+    "ced978386329c9d6fb9f84bd8c5dbb59",
+    "5ad757145b963aa81e838ae7c3aaf85f",
+    "86638bf047ec72baa0b789b14afb06b1",
+    "92410e5b0718a49c1a0a5290cca505ce",
+    "b291bffc461d9f2bf4612fa2fb89bf83",
+    "b26938271fbf97c0f0abbe248d70aabc",
+    "f1f36ff59e4c5edc16f9b3af8aad601b",
+    "a340387844c0c8c2657341280b23c5d7",
+    "122b855978f64f1b43dee48f1ba28ea8",
+    "fdec8d55ddfd9056fa84064e8e9103c9",
+    "e07851990961d71cc6cdfae9b64a0b53",
+    "2a49288fcd1d03e03babdba12b3265d7",
+    "1e92cfb3ebc003f80f15554966ee9b1b",
+    "0eeb9a79edfb081b781350925b4105c2",
+    "0ff1479a0ca6fd813be656cc17a6b738",
+    "26cccf59a7d14c2d03800148e0bbe3d9",
+    "6eba21038e1fad4f5da41554f2bb53ff",
+    "3fdcb608c4e52b0e9ae33f1ebcda55b3"
   ]
 }
