@@ -5,9 +5,31 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 02 Jun 2026 03:32:08 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 03:39:22 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>US - NASDAQ 100 Index - Forward PE Ratio (2026-06-03)</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-03-us---nasdaq-100-index---forward-pe-ratio-2026-06-0-2dd635.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-03-us---nasdaq-100-index---forward-pe-ratio-2026-06-0-2dd635.html</guid>
+    <pubDate>Wed, 03 Jun 2026 03:39:22 -0000</pubDate>
+    <category>거시경제 지표</category>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>[신규상장] FEDEX FREIGHT HOLDING CO INC (FDXF) - NYSE</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-03-신규상장-fedex-freight-holding-co-inc-fdxf---nyse-c65fc9.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-03-신규상장-fedex-freight-holding-co-inc-fdxf---nyse-c65fc9.html</guid>
+    <pubDate>Wed, 03 Jun 2026 03:39:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: FEDEX FREIGHT HOLDING CO INC
+영문명: FEDEX FREIGHT HOLDING CO INC
+티커: FDXF
+시장: NYSE (미국)
+첫 거래일: 2026-05-27
+거래일수: 5일
+최근 종가: 153.3400]]></description>
+  </item>
   <item>
     <title>[신규상장] REDWOOD TRUST INC 9.75 SR NTS DUE 01/06/2031 US25 (RWTS) - NYSE</title>
     <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-31-신규상장-redwood-trust-inc-975-sr-nts-due-01062031-us2-d7fec7.html</link>
@@ -666,28 +688,6 @@
 첫 거래일: 2026-05-13
 거래일수: 3일
 최근 종가: 10.0100]]></description>
-  </item>
-  <item>
-    <title>[신규상장] AIAI HOLDINGS CORPORATION (AIAI) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-18-신규상장-aiai-holdings-corporation-aiai---nasdaq-a840f9.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-18-신규상장-aiai-holdings-corporation-aiai---nasdaq-a840f9.html</guid>
-    <pubDate>Mon, 18 May 2026 02:52:21 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: AIAI HOLDINGS CORPORATION
-영문명: AIAI HOLDINGS CORPORATION
-티커: AIAI
-시장: NASDAQ (미국)
-첫 거래일: 2026-05-14
-거래일수: 2일
-최근 종가: 14.9600]]></description>
-  </item>
-  <item>
-    <title>US - NASDAQ 100 Index - Forward PE Ratio (2026-05-12)</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-12-us---nasdaq-100-index---forward-pe-ratio-2026-05-1-d8d0d6.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-12-us---nasdaq-100-index---forward-pe-ratio-2026-05-1-d8d0d6.html</guid>
-    <pubDate>Tue, 12 May 2026 10:12:54 -0000</pubDate>
-    <category>거시경제 지표</category>
-    <description><![CDATA[]]></description>
   </item>
   </channel>
 </rss>
