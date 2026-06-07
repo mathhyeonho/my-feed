@@ -5,9 +5,37 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 06 Jun 2026 02:43:53 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 03:26:34 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>[신규상장] FUTURECORP SPACE ACQUISITION 1 UNITS CONS 1 ORD CL A &amp; 1 (FTRA-UN) - NYSE</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-07-신규상장-futurecorp-space-acquisition-1-units-cons-1-o-0e44ae.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-07-신규상장-futurecorp-space-acquisition-1-units-cons-1-o-0e44ae.html</guid>
+    <pubDate>Sun, 07 Jun 2026 03:26:34 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: FUTURECORP SPACE ACQUISITION 1 UNITS CONS 1 ORD CL A & 1
+영문명: FUTURECORP SPACE ACQUISITION 1 UNITS CONS 1 ORD CL A & 1
+티커: FTRA-UN
+시장: NYSE (미국)
+첫 거래일: 2026-06-05
+거래일수: 1일
+최근 종가: 10.1300]]></description>
+  </item>
+  <item>
+    <title>[신규상장] OCEANHAWK ACQUISITION CORPORATION (OHAC) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-07-신규상장-oceanhawk-acquisition-corporation-ohac---nasd-4f2fcc.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-07-신규상장-oceanhawk-acquisition-corporation-ohac---nasd-4f2fcc.html</guid>
+    <pubDate>Sun, 07 Jun 2026 03:26:34 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: OCEANHAWK ACQUISITION CORPORATION
+영문명: OCEANHAWK ACQUISITION CORPORATION
+티커: OHAC
+시장: NASDAQ (미국)
+첫 거래일: 2026-06-05
+거래일수: 1일
+최근 종가: 9.8800]]></description>
+  </item>
   <item>
     <title>[신규상장] SUNSHINE SILVER MINING &amp; REFINING COMPANY (SSMR) - NYSE</title>
     <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-05-신규상장-sunshine-silver-mining-refining-company-ssmr--644ce8.html</link>
@@ -660,34 +688,6 @@
 첫 거래일: 2026-05-13
 거래일수: 3일
 최근 종가: 9.9000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] GMR SOLUTIONS INC (GMRS) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-18-신규상장-gmr-solutions-inc-gmrs---nyse-05f19d.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-18-신규상장-gmr-solutions-inc-gmrs---nyse-05f19d.html</guid>
-    <pubDate>Mon, 18 May 2026 02:52:21 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: GMR SOLUTIONS INC
-영문명: GMR SOLUTIONS INC
-티커: GMRS
-시장: NYSE (미국)
-첫 거래일: 2026-05-13
-거래일수: 3일
-최근 종가: 13.3700]]></description>
-  </item>
-  <item>
-    <title>[신규상장] ENERGY TRANSITION SPECIAL OPPORTUNI UNIT 1 CL A &amp; 1/2 WT (ETSS-UN) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-05-18-신규상장-energy-transition-special-opportuni-unit-1-cl-bd10ea.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-05-18-신규상장-energy-transition-special-opportuni-unit-1-cl-bd10ea.html</guid>
-    <pubDate>Mon, 18 May 2026 02:52:21 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: ENERGY TRANSITION SPECIAL OPPORTUNI UNIT 1 CL A & 1/2 WT
-영문명: ENERGY TRANSITION SPECIAL OPPORTUNI UNIT 1 CL A & 1/2 WT
-티커: ETSS-UN
-시장: NYSE (미국)
-첫 거래일: 2026-05-15
-거래일수: 1일
-최근 종가: 9.9900]]></description>
   </item>
   </channel>
 </rss>
