@@ -5,9 +5,37 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 27 Jun 2026 02:43:25 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 02:58:51 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>[신규상장] SINDA LTD (SIND) - NYSE</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-28-신규상장-sinda-ltd-sind---nyse-50a579.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-28-신규상장-sinda-ltd-sind---nyse-50a579.html</guid>
+    <pubDate>Sun, 28 Jun 2026 02:58:51 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: SINDA LTD
+영문명: SINDA LTD
+티커: SIND
+시장: NYSE (미국)
+첫 거래일: 2026-06-26
+거래일수: 1일
+최근 종가: 12.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] STABLECOINX INC (USDE) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-28-신규상장-stablecoinx-inc-usde---nasdaq-317b9c.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-28-신규상장-stablecoinx-inc-usde---nasdaq-317b9c.html</guid>
+    <pubDate>Sun, 28 Jun 2026 02:58:51 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: STABLECOINX INC
+영문명: STABLECOINX INC
+티커: USDE
+시장: NASDAQ (미국)
+첫 거래일: 2026-06-26
+거래일수: 1일
+최근 종가: 3.7000]]></description>
+  </item>
   <item>
     <title>US - NASDAQ 100 Index - Forward PE Ratio (2026-06-27)</title>
     <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-27-us---nasdaq-100-index---forward-pe-ratio-2026-06-2-fd36d7.html</link>
@@ -655,34 +683,6 @@
 첫 거래일: 2026-05-18
 거래일수: 18일
 최근 종가: 40.0400]]></description>
-  </item>
-  <item>
-    <title>[신규상장] NINGBO HICON INDY TECH CO LTD (001237.SZ) - 심천</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-11-신규상장-ningbo-hicon-indy-tech-co-ltd-001237sz---심천-f5318a.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-11-신규상장-ningbo-hicon-indy-tech-co-ltd-001237sz---심천-f5318a.html</guid>
-    <pubDate>Thu, 11 Jun 2026 03:30:42 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: NINGBO HICON INDY TECH CO LTD
-영문명: NINGBO HICON INDY TECH CO LTD
-티커: 001237.SZ
-시장: 심천 (중국)
-첫 거래일: 2026-05-22
-거래일수: 14일
-최근 종가: 62.4000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] EROCK INC (EROC) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-11-신규상장-erock-inc-eroc---nyse-b164e8.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-11-신규상장-erock-inc-eroc---nyse-b164e8.html</guid>
-    <pubDate>Thu, 11 Jun 2026 03:30:42 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: EROCK INC
-영문명: EROCK INC
-티커: EROC
-시장: NYSE (미국)
-첫 거래일: 2026-06-10
-거래일수: 1일
-최근 종가: 18.7500]]></description>
   </item>
   </channel>
 </rss>
