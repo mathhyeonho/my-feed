@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>US - NASDAQ 100 Index - Forward PE Ratio (2026-07-05) — My Feed</title>
+  <style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif;
+       background: #f4f4f5; color: #18181b; line-height: 1.75; }
+a { color: inherit; }
+.wrap { max-width: 800px; margin: 0 auto; padding: 0 20px; }
+.site-header { background: #09090b; color: #fff; padding: 26px 0; }
+.site-header .inner { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.site-header h1 { font-size: 1.4rem; font-weight: 700; }
+.site-header p  { color: #a1a1aa; font-size: .88rem; margin-top: 3px; }
+.rss-btn { flex-shrink: 0; color: #f97316; border: 1px solid #f97316;
+           padding: 5px 14px; border-radius: 6px; text-decoration: none; font-size: .82rem; }
+.feed { padding: 28px 0; }
+.card { background: #fff; border-radius: 10px; padding: 22px 24px;
+        margin-bottom: 14px; box-shadow: 0 1px 2px rgba(0,0,0,.06); }
+.meta { display: flex; gap: 8px; align-items: center; font-size: .78rem; margin-bottom: 9px; }
+.tag  { background: #eff6ff; color: #2563eb; padding: 2px 9px; border-radius: 20px; font-weight: 600; }
+.date { color: #a1a1aa; }
+.card h2 { font-size: 1.05rem; line-height: 1.5; margin-bottom: 9px; }
+.card h2 a { text-decoration: none; color: #18181b; }
+.card h2 a:hover { color: #2563eb; }
+.excerpt { color: #52525b; font-size: .9rem; margin-bottom: 13px; }
+.actions { display: flex; gap: 8px; }
+.btn { padding: 5px 13px; border-radius: 6px; font-size: .8rem; text-decoration: none; display: inline-block; }
+.btn-primary { background: #18181b; color: #fff; }
+.btn-outline  { border: 1px solid #d4d4d8; color: #71717a; }
+.btn-outline:hover { background: #f4f4f5; }
+.post-wrap { padding: 28px 0; }
+.back { display: inline-block; color: #71717a; text-decoration: none; margin-bottom: 18px; font-size: .88rem; }
+.post-box { background: #fff; border-radius: 10px; padding: 30px; box-shadow: 0 1px 2px rgba(0,0,0,.06); }
+.post-box h1 { font-size: 1.4rem; line-height: 1.4; margin-bottom: 14px; }
+.orig-link { display: inline-block; color: #2563eb; text-decoration: none; font-size: .88rem; margin-bottom: 22px; }
+.orig-link:hover { text-decoration: underline; }
+.summary-box { background: #f0f9ff; border-left: 4px solid #0ea5e9;
+               border-radius: 0 8px 8px 0; padding: 16px 20px; }
+.summary-box h2 { color: #0369a1; font-size: .9rem; margin-bottom: 10px; font-weight: 600; }
+.summary-box ul { padding-left: 18px; }
+.summary-box li { margin-bottom: 5px; font-size: .93rem; }
+.summary-box p  { font-size: .93rem; margin-bottom: 7px; }
+.site-footer { text-align: center; color: #a1a1aa; font-size: .8rem; padding: 28px 0; }
+.site-footer a { color: #71717a; }
+.chart-badge { background: #f0fdf4; color: #16a34a; padding: 2px 9px;
+               border-radius: 20px; font-size: .78rem; font-weight: 600; }
+.chart-section { margin-top: 24px; }
+.chart-section canvas { max-height: 380px; }
+@media (max-width: 560px) {
+    .site-header .inner { flex-direction: column; align-items: flex-start; }
+}
+</style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a href="https://mathhyeonho.github.io/my-feed" style="color:#fff;opacity:.75;text-decoration:none">← My Feed</a>
+    </div>
+  </header>
+  <main class="wrap post-wrap">
+    <a href="https://mathhyeonho.github.io/my-feed" class="back">← 목록으로</a>
+    <div class="post-box">
+      <div class="meta">
+        <span class="tag">거시경제 지표</span>
+        <span class="date">2026년 07월 05일</span>
+      </div>
+      <h1>US - NASDAQ 100 Index - Forward PE Ratio (2026-07-05)</h1>
+      <a href="https://en.macromicro.me/series/23955/nasdaq-100-pe" class="orig-link" target="_blank" rel="noopener">원문 읽기 ↗</a>
+      
+      <div class="chart-section">
+  <canvas id="feedChart"></canvas>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+<script>
+(function() {
+  const raw = [{"x": 2001.0, "y": 36.66}, {"x": 2001.496, "y": 99.73}, {"x": 2001.999, "y": 56.23}, {"x": 2002.495, "y": 13.61}, {"x": 2002.999, "y": 23.56}, {"x": 2003.494, "y": 26.72}, {"x": 2003.998, "y": 26.01}, {"x": 2004.496, "y": 22.23}, {"x": 2005.0, "y": 26.29}, {"x": 2005.496, "y": 27.64}, {"x": 2005.999, "y": 27.29}, {"x": 2006.495, "y": 23.72}, {"x": 2006.999, "y": 24.97}, {"x": 2007.494, "y": 25.36}, {"x": 2007.998, "y": 20.83}, {"x": 2008.496, "y": 20.73}, {"x": 2009.0, "y": 14.61}, {"x": 2009.496, "y": 20.0}, {"x": 2009.999, "y": 16.28}, {"x": 2010.495, "y": 15.31}, {"x": 2010.999, "y": 15.63}, {"x": 2011.494, "y": 14.29}, {"x": 2011.998, "y": 13.24}, {"x": 2012.496, "y": 14.19}, {"x": 2013.0, "y": 14.44}, {"x": 2013.496, "y": 17.17}, {"x": 2013.999, "y": 18.03}, {"x": 2014.495, "y": 19.0}, {"x": 2014.999, "y": 17.89}, {"x": 2015.494, "y": 20.17}, {"x": 2015.998, "y": 18.0}, {"x": 2016.496, "y": 20.19}, {"x": 2017.0, "y": 19.4}, {"x": 2017.496, "y": 21.78}, {"x": 2017.999, "y": 21.4}, {"x": 2018.495, "y": 20.99}, {"x": 2018.999, "y": 19.01}, {"x": 2019.494, "y": 21.65}, {"x": 2019.998, "y": 22.97}, {"x": 2020.496, "y": 31.46}, {"x": 2021.0, "y": 29.46}, {"x": 2021.496, "y": 26.84}, {"x": 2021.999, "y": 25.53}, {"x": 2022.495, "y": 22.39}, {"x": 2022.999, "y": 22.92}, {"x": 2023.494, "y": 25.84}, {"x": 2023.998, "y": 31.02}, {"x": 2024.496, "y": 25.54}, {"x": 2025.0, "y": 26.52}, {"x": 2025.496, "y": 27.03}, {"x": 2025.999, "y": 24.81}, {"x": 2026.246, "y": 23.14}, {"x": 2026.328, "y": 23.77}];
+  function fmtX(val) {
+    const totalMonths = Math.round(val * 12);
+    const yr = Math.floor(totalMonths / 12);
+    const mo = (totalMonths % 12) + 1;
+    return yr + "-" + String(mo).padStart(2, "0");
+  }
+  new Chart(document.getElementById("feedChart"), {
+    type: "scatter",
+    data: {
+      datasets: [{
+        label: "US - NASDAQ 100 Index - Forward PE Ratio",
+        data: raw.map(p => ({ x: p.x, y: p.y })),
+        borderColor: "#2563eb",
+        backgroundColor: "rgba(37,99,235,0.07)",
+        borderWidth: 2,
+        pointRadius: 2,
+        tension: 0.3,
+        fill: true,
+        showLine: true,
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: true } },
+      scales: {
+        x: {
+          type: "linear",
+          min: raw[0].x,
+          max: raw[raw.length - 1].x,
+          ticks: {
+            maxTicksLimit: 12,
+            maxRotation: 45,
+            callback: fmtX,
+          }
+        },
+        y: { beginAtZero: false }
+      }
+    }
+  });
+})();
+</script>
+    </div>
+  </main>
+  <footer class="site-footer"><a href="https://mathhyeonho.github.io/my-feed/feed.xml">RSS</a> · 자동 수집 피드</footer>
+</body>
+</html>
