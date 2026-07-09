@@ -5,9 +5,37 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 08 Jul 2026 02:13:25 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 02:31:26 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>[신규상장] FREEDOM METALS ACQUISITION CORP UNIT CONSIST EACH 1 CL A ORD (FDMMU) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-09-신규상장-freedom-metals-acquisition-corp-unit-consist--967e34.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-09-신규상장-freedom-metals-acquisition-corp-unit-consist--967e34.html</guid>
+    <pubDate>Thu, 09 Jul 2026 02:31:26 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: FREEDOM METALS ACQUISITION CORP UNIT CONSIST EACH 1 CL A ORD
+영문명: FREEDOM METALS ACQUISITION CORP UNIT CONSIST EACH 1 CL A ORD
+티커: FDMMU
+시장: NASDAQ (미국)
+첫 거래일: 2026-07-08
+거래일수: 1일
+최근 종가: 9.9500]]></description>
+  </item>
+  <item>
+    <title>[신규상장] CAPSTONE ENERGY PLUS INC (CEPL) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-09-신규상장-capstone-energy-plus-inc-cepl---nasdaq-c8b627.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-09-신규상장-capstone-energy-plus-inc-cepl---nasdaq-c8b627.html</guid>
+    <pubDate>Thu, 09 Jul 2026 02:31:26 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: CAPSTONE ENERGY PLUS INC
+영문명: CAPSTONE ENERGY PLUS INC
+티커: CEPL
+시장: NASDAQ (미국)
+첫 거래일: 2026-07-08
+거래일수: 1일
+최근 종가: 11.8800]]></description>
+  </item>
   <item>
     <title>[신규상장] WHITEHAWK MINERALS CORP (WHK) - NYSE</title>
     <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-whitehawk-minerals-corp-whk---nyse-3608bf.html</link>
@@ -661,34 +689,6 @@
     <pubDate>Fri, 19 Jun 2026 03:52:06 -0000</pubDate>
     <category>거시경제 지표</category>
     <description><![CDATA[]]></description>
-  </item>
-  <item>
-    <title>[신규상장] PLUTONIAN ACQUISITION CORP II (PLUN) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-19-신규상장-plutonian-acquisition-corp-ii-plun---nyse-156fbf.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-19-신규상장-plutonian-acquisition-corp-ii-plun---nyse-156fbf.html</guid>
-    <pubDate>Fri, 19 Jun 2026 03:52:06 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: PLUTONIAN ACQUISITION CORP II
-영문명: PLUTONIAN ACQUISITION CORP II
-티커: PLUN
-시장: NYSE (미국)
-첫 거래일: 2026-06-18
-거래일수: 1일
-최근 종가: 9.9700]]></description>
-  </item>
-  <item>
-    <title>[신규상장] FIRST CAROLINA FINANCIAL SERVICES INC (FCBM) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-19-신규상장-first-carolina-financial-services-inc-fcbm----b1f3c0.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-19-신규상장-first-carolina-financial-services-inc-fcbm----b1f3c0.html</guid>
-    <pubDate>Fri, 19 Jun 2026 03:52:06 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: FIRST CAROLINA FINANCIAL SERVICES INC
-영문명: FIRST CAROLINA FINANCIAL SERVICES INC
-티커: FCBM
-시장: NYSE (미국)
-첫 거래일: 2026-06-18
-거래일수: 1일
-최근 종가: 12.6000]]></description>
   </item>
   </channel>
 </rss>
