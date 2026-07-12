@@ -5,9 +5,37 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 11 Jul 2026 02:10:09 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 02:14:30 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>[신규상장] SAMOS ENERGY ACQUISITION CORP UNITS CONS OF 1 CL A ORD &amp; (SAMO-UN) - NYSE</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-12-신규상장-samos-energy-acquisition-corp-units-cons-of-1-fe98e9.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-12-신규상장-samos-energy-acquisition-corp-units-cons-of-1-fe98e9.html</guid>
+    <pubDate>Sun, 12 Jul 2026 02:14:30 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: SAMOS ENERGY ACQUISITION CORP UNITS CONS OF 1 CL A ORD &
+영문명: SAMOS ENERGY ACQUISITION CORP UNITS CONS OF 1 CL A ORD &
+티커: SAMO-UN
+시장: NYSE (미국)
+첫 거래일: 2026-07-10
+거래일수: 1일
+최근 종가: 9.9500]]></description>
+  </item>
+  <item>
+    <title>[신규상장] SK하이닉스(ADR) (SKHYV) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-12-신규상장-sk하이닉스adr-skhyv---nasdaq-57a480.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-12-신규상장-sk하이닉스adr-skhyv---nasdaq-57a480.html</guid>
+    <pubDate>Sun, 12 Jul 2026 02:14:30 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: SK하이닉스(ADR)
+영문명: SK HYNIX INC SPON ADS EACH REP 0.1 SHS WI
+티커: SKHYV
+시장: NASDAQ (미국)
+첫 거래일: 2026-07-10
+거래일수: 1일
+최근 종가: 168.0100]]></description>
+  </item>
   <item>
     <title>[신규상장] MING SHING GROUP HOLDINGS LIMITED (PMA) - NASDAQ</title>
     <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-10-신규상장-ming-shing-group-holdings-limited-pma---nasda-6faad1.html</link>
@@ -667,34 +695,6 @@
 첫 거래일: 2026-06-22
 거래일수: 2일
 최근 종가: 9.8800]]></description>
-  </item>
-  <item>
-    <title>[신규상장] GORES HOLDINGS XI INC UNIT EACH REP 1 CL A ORD &amp; 0.25 WT (GHXIU) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-24-신규상장-gores-holdings-xi-inc-unit-each-rep-1-cl-a-or-b0e262.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-24-신규상장-gores-holdings-xi-inc-unit-each-rep-1-cl-a-or-b0e262.html</guid>
-    <pubDate>Wed, 24 Jun 2026 02:48:36 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: GORES HOLDINGS XI INC UNIT EACH REP 1 CL A ORD & 0.25 WT
-영문명: GORES HOLDINGS XI INC UNIT EACH REP 1 CL A ORD & 0.25 WT
-티커: GHXIU
-시장: NASDAQ (미국)
-첫 거래일: 2026-06-23
-거래일수: 1일
-최근 종가: 10.0500]]></description>
-  </item>
-  <item>
-    <title>[신규상장] GENERAL CATALYST GBL RESILIENCE MRG (GCGR) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-24-신규상장-general-catalyst-gbl-resilience-mrg-gcgr---na-612968.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-24-신규상장-general-catalyst-gbl-resilience-mrg-gcgr---na-612968.html</guid>
-    <pubDate>Wed, 24 Jun 2026 02:48:36 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: GENERAL CATALYST GBL RESILIENCE MRG
-영문명: GENERAL CATALYST GBL RESILIENCE MRG
-티커: GCGR
-시장: NASDAQ (미국)
-첫 거래일: 2026-06-23
-거래일수: 1일
-최근 종가: 10.0800]]></description>
   </item>
   </channel>
 </rss>
