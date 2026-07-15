@@ -5,690 +5,703 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 14 Jul 2026 02:01:28 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 02:20:22 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
   <item>
-    <title>US - NASDAQ 100 Index - Forward PE Ratio (2026-07-13)</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-13-us---nasdaq-100-index---forward-pe-ratio-2026-07-1-e6785b.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-13-us---nasdaq-100-index---forward-pe-ratio-2026-07-1-e6785b.html</guid>
-    <pubDate>Mon, 13 Jul 2026 02:22:12 -0000</pubDate>
-    <category>거시경제 지표</category>
-    <description><![CDATA[]]></description>
+    <title>[신규상장] 시스웍 (269620.KQ) - KOSDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-시스웍-269620kq---kosdaq-fa5049.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-시스웍-269620kq---kosdaq-fa5049.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 시스웍
+티커: 269620.KQ
+시장: KOSDAQ (한국)
+첫 거래일: 2026-07-13
+거래일수: 2일
+최근 종가: 889.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] SAMOS ENERGY ACQUISITION CORP UNITS CONS OF 1 CL A ORD &amp; (SAMO-UN) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-12-신규상장-samos-energy-acquisition-corp-units-cons-of-1-fe98e9.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-12-신규상장-samos-energy-acquisition-corp-units-cons-of-1-fe98e9.html</guid>
-    <pubDate>Sun, 12 Jul 2026 02:14:30 -0000</pubDate>
+    <title>[신규상장] 에스디생명공학 (217480.KQ) - KOSDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-에스디생명공학-217480kq---kosdaq-3b5f42.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-에스디생명공학-217480kq---kosdaq-3b5f42.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: SAMOS ENERGY ACQUISITION CORP UNITS CONS OF 1 CL A ORD &
-영문명: SAMOS ENERGY ACQUISITION CORP UNITS CONS OF 1 CL A ORD &
-티커: SAMO-UN
-시장: NYSE (미국)
-첫 거래일: 2026-07-10
+    <description><![CDATA[종목명: 에스디생명공학
+티커: 217480.KQ
+시장: KOSDAQ (한국)
+첫 거래일: 2026-07-13
+거래일수: 2일
+최근 종가: 500.1433]]></description>
+  </item>
+  <item>
+    <title>[신규상장] RISE CD금리액티브(합성) (477080.KS) - KOSPI</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-rise-cd금리액티브합성-477080ks---kospi-761a1b.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-rise-cd금리액티브합성-477080ks---kospi-761a1b.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: RISE CD금리액티브(합성)
+티커: 477080.KS
+시장: KOSPI (한국)
+첫 거래일: 2026-07-13
+거래일수: 2일
+최근 종가: 107,040.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 유니드비티플러스 (446070.KS) - KOSPI</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-유니드비티플러스-446070ks---kospi-61028e.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-유니드비티플러스-446070ks---kospi-61028e.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 유니드비티플러스
+티커: 446070.KS
+시장: KOSPI (한국)
+첫 거래일: 2026-07-13
+거래일수: 2일
+최근 종가: 3,260.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 부산주공 (005030.KS) - KOSPI</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-부산주공-005030ks---kospi-4180a8.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-부산주공-005030ks---kospi-4180a8.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 부산주공
+티커: 005030.KS
+시장: KOSPI (한국)
+첫 거래일: 2026-07-13
+거래일수: 2일
+최근 종가: 486.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] VIETNAM THUONG TIN CJSB (VBB.VN) - 호치민</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-vietnam-thuong-tin-cjsb-vbbvn---호치민-39813c.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-vietnam-thuong-tin-cjsb-vbbvn---호치민-39813c.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: VIETNAM THUONG TIN CJSB
+영문명: VIETNAM THUONG TIN CJSB
+티커: VBB.VN
+시장: 호치민 (베트남)
+첫 거래일: 2026-07-14
 거래일수: 1일
-최근 종가: 9.9500]]></description>
+최근 종가: 13,600.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] SK하이닉스(ADR) (SKHYV) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-12-신규상장-sk하이닉스adr-skhyv---nasdaq-57a480.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-12-신규상장-sk하이닉스adr-skhyv---nasdaq-57a480.html</guid>
-    <pubDate>Sun, 12 Jul 2026 02:14:30 -0000</pubDate>
+    <title>[신규상장] 와트만 (9927.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-와트만-9927t---도쿄-75bbcf.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-와트만-9927t---도쿄-75bbcf.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: SK하이닉스(ADR)
-영문명: SK HYNIX INC SPON ADS EACH REP 0.1 SHS WI
-티커: SKHYV
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-10
+    <description><![CDATA[종목명: 와트만
+영문명: WATT MANN CO. LTD.
+티커: 9927.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-18
 거래일수: 1일
-최근 종가: 168.0100]]></description>
+최근 종가: 963.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] MING SHING GROUP HOLDINGS LIMITED (PMA) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-10-신규상장-ming-shing-group-holdings-limited-pma---nasda-6faad1.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-10-신규상장-ming-shing-group-holdings-limited-pma---nasda-6faad1.html</guid>
-    <pubDate>Fri, 10 Jul 2026 02:34:08 -0000</pubDate>
+    <title>[신규상장] 인포리치 (9338.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-인포리치-9338t---도쿄-2e948c.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-인포리치-9338t---도쿄-2e948c.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: MING SHING GROUP HOLDINGS LIMITED
-영문명: MING SHING GROUP HOLDINGS LIMITED
-티커: PMA
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-09
+    <description><![CDATA[종목명: 인포리치
+영문명: INFORICH INC.
+티커: 9338.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-15
 거래일수: 1일
-최근 종가: 1.2900]]></description>
+최근 종가: 4,530.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] MERCATOR ACQUISITION CORPORATION UNIT 1 CL A ORD &amp; 1/3 W (MRCOU) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-10-신규상장-mercator-acquisition-corporation-unit-1-cl-a--b97325.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-10-신규상장-mercator-acquisition-corporation-unit-1-cl-a--b97325.html</guid>
-    <pubDate>Fri, 10 Jul 2026 02:34:08 -0000</pubDate>
+    <title>[신규상장] 올림픽그룹 (8289.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-올림픽그룹-8289t---도쿄-b03073.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-올림픽그룹-8289t---도쿄-b03073.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: MERCATOR ACQUISITION CORPORATION UNIT 1 CL A ORD & 1/3 W
-영문명: MERCATOR ACQUISITION CORPORATION UNIT 1 CL A ORD & 1/3 W
-티커: MRCOU
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-09
+    <description><![CDATA[종목명: 올림픽그룹
+영문명: OLYMPIC GROUP CORPORATION
+티커: 8289.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-29
 거래일수: 1일
-최근 종가: 10.0200]]></description>
+최근 종가: 952.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] COLUMBUS CIRCLE CAP CORP III UNIT REP 1 CL A ORD &amp; 1/3 W (CCCTU) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-10-신규상장-columbus-circle-cap-corp-iii-unit-rep-1-cl-a--739692.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-10-신규상장-columbus-circle-cap-corp-iii-unit-rep-1-cl-a--739692.html</guid>
-    <pubDate>Fri, 10 Jul 2026 02:34:08 -0000</pubDate>
+    <title>[신규상장] 무토홀딩스 (7999.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-무토홀딩스-7999t---도쿄-2eb4c8.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-무토홀딩스-7999t---도쿄-2eb4c8.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: COLUMBUS CIRCLE CAP CORP III UNIT REP 1 CL A ORD & 1/3 W
-영문명: COLUMBUS CIRCLE CAP CORP III UNIT REP 1 CL A ORD & 1/3 W
-티커: CCCTU
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-09
+    <description><![CDATA[종목명: 무토홀딩스
+영문명: MUTOH HOLDINGS CO. LTD.
+티커: 7999.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-12
 거래일수: 1일
-최근 종가: 10.0200]]></description>
+최근 종가: 7,580.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] FREEDOM METALS ACQUISITION CORP UNIT CONSIST EACH 1 CL A ORD (FDMMU) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-09-신규상장-freedom-metals-acquisition-corp-unit-consist--967e34.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-09-신규상장-freedom-metals-acquisition-corp-unit-consist--967e34.html</guid>
-    <pubDate>Thu, 09 Jul 2026 02:31:26 -0000</pubDate>
+    <title>[신규상장] 유타카기술연구소 (7229.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-유타카기술연구소-7229t---도쿄-0e1fb5.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-유타카기술연구소-7229t---도쿄-0e1fb5.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: FREEDOM METALS ACQUISITION CORP UNIT CONSIST EACH 1 CL A ORD
-영문명: FREEDOM METALS ACQUISITION CORP UNIT CONSIST EACH 1 CL A ORD
-티커: FDMMU
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-08
+    <description><![CDATA[종목명: 유타카기술연구소
+영문명: YUTAKA GIKEN CO. LTD.
+티커: 7229.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-11
 거래일수: 1일
-최근 종가: 9.9500]]></description>
+최근 종가: 3,005.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] CAPSTONE ENERGY PLUS INC (CEPL) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-09-신규상장-capstone-energy-plus-inc-cepl---nasdaq-c8b627.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-09-신규상장-capstone-energy-plus-inc-cepl---nasdaq-c8b627.html</guid>
-    <pubDate>Thu, 09 Jul 2026 02:31:26 -0000</pubDate>
+    <title>[신규상장] MCJ (6670.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-mcj-6670t---도쿄-1be344.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-mcj-6670t---도쿄-1be344.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: CAPSTONE ENERGY PLUS INC
-영문명: CAPSTONE ENERGY PLUS INC
-티커: CEPL
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-08
+    <description><![CDATA[종목명: MCJ
+영문명: MCJ CO. LTD.
+티커: 6670.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-15
 거래일수: 1일
-최근 종가: 11.8800]]></description>
+최근 종가: 2,184.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] WHITEHAWK MINERALS CORP (WHK) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-whitehawk-minerals-corp-whk---nyse-3608bf.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-whitehawk-minerals-corp-whk---nyse-3608bf.html</guid>
-    <pubDate>Wed, 08 Jul 2026 02:13:25 -0000</pubDate>
+    <title>[신규상장] 스이도기공 (6403.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-스이도기공-6403t---도쿄-1cc8d8.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-스이도기공-6403t---도쿄-1cc8d8.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: WHITEHAWK MINERALS CORP
-영문명: WHITEHAWK MINERALS CORP
-티커: WHK
-시장: NYSE (미국)
-첫 거래일: 2026-06-09
-거래일수: 19일
-최근 종가: 27.2000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] PATRIOT ACQUISITION CORPORATION (PTAC) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-patriot-acquisition-corporation-ptac---nasdaq-94285d.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-patriot-acquisition-corporation-ptac---nasdaq-94285d.html</guid>
-    <pubDate>Wed, 08 Jul 2026 02:13:25 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: PATRIOT ACQUISITION CORPORATION
-영문명: PATRIOT ACQUISITION CORPORATION
-티커: PTAC
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-07
+    <description><![CDATA[종목명: 스이도기공
+영문명: SUIDO KIKO KAISHA LTD.
+티커: 6403.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-23
 거래일수: 1일
-최근 종가: 9.9000]]></description>
+최근 종가: 4,015.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] MIDERA FOOD PROCESSING INC (MFP) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-midera-food-processing-inc-mfp---nasdaq-ecd783.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-midera-food-processing-inc-mfp---nasdaq-ecd783.html</guid>
-    <pubDate>Wed, 08 Jul 2026 02:13:25 -0000</pubDate>
+    <title>[신규상장] 토요타산업 (6201.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-토요타산업-6201t---도쿄-ef329d.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-토요타산업-6201t---도쿄-ef329d.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: MIDERA FOOD PROCESSING INC
-영문명: MIDERA FOOD PROCESSING INC
-티커: MFP
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-07
+    <description><![CDATA[종목명: 토요타산업
+영문명: TOYOTA INDUSTRIES CORPORATION
+티커: 6201.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-01
 거래일수: 1일
-최근 종가: 36.6000]]></description>
+최근 종가: 20,450.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] IRON DOME ACQUISITION I CORPORATION (IDAC) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-iron-dome-acquisition-i-corporation-idac---na-018292.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-iron-dome-acquisition-i-corporation-idac---na-018292.html</guid>
-    <pubDate>Wed, 08 Jul 2026 02:13:25 -0000</pubDate>
+    <title>[신규상장] 아쿠아라인 (6173.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-아쿠아라인-6173t---도쿄-751903.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-아쿠아라인-6173t---도쿄-751903.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: IRON DOME ACQUISITION I CORPORATION
-영문명: IRON DOME ACQUISITION I CORPORATION
-티커: IDAC
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-07
+    <description><![CDATA[종목명: 아쿠아라인
+영문명: AQUALINE LTD.
+티커: 6173.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-02
 거래일수: 1일
-최근 종가: 9.9494]]></description>
+최근 종가: 13.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] BERTO ACQUISITION CORPORATION II (GUAC) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-berto-acquisition-corporation-ii-guac---nasda-db6879.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-berto-acquisition-corporation-ii-guac---nasda-db6879.html</guid>
-    <pubDate>Wed, 08 Jul 2026 02:13:25 -0000</pubDate>
+    <title>[신규상장] 엘아이이에이치 (5856.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-엘아이이에이치-5856t---도쿄-7ae950.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-엘아이이에이치-5856t---도쿄-7ae950.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: BERTO ACQUISITION CORPORATION II
-영문명: BERTO ACQUISITION CORPORATION II
-티커: GUAC
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-07
+    <description><![CDATA[종목명: 엘아이이에이치
+영문명: TORI HOLDINGS CO. LTD.
+티커: 5856.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-26
 거래일수: 1일
-최근 종가: 9.9800]]></description>
+최근 종가: 1.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] FORTUNEX ACQUISITION CORPORATION (FXAC) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-fortunex-acquisition-corporation-fxac---nasda-deebff.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-fortunex-acquisition-corporation-fxac---nasda-deebff.html</guid>
-    <pubDate>Wed, 08 Jul 2026 02:13:25 -0000</pubDate>
+    <title>[신규상장] 다카라바이오 (4974.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-다카라바이오-4974t---도쿄-d7c105.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-다카라바이오-4974t---도쿄-d7c105.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: FORTUNEX ACQUISITION CORPORATION
-영문명: FORTUNEX ACQUISITION CORPORATION
-티커: FXAC
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-07
+    <description><![CDATA[종목명: 다카라바이오
+영문명: TAKARA BIO INC.
+티커: 4974.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-12
 거래일수: 1일
-최근 종가: 10.0000]]></description>
+최근 종가: 1,144.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] BLEICHROEDER ACQUISITION CORP III UNITS EACH REP 1 CL A ORD (BCCQU) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-bleichroeder-acquisition-corp-iii-units-each--5279d2.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-bleichroeder-acquisition-corp-iii-units-each--5279d2.html</guid>
-    <pubDate>Wed, 08 Jul 2026 02:13:25 -0000</pubDate>
+    <title>[신규상장] 에이지스 (4659.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-에이지스-4659t---도쿄-9c6a22.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-에이지스-4659t---도쿄-9c6a22.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: BLEICHROEDER ACQUISITION CORP III UNITS EACH REP 1 CL A ORD
-영문명: BLEICHROEDER ACQUISITION CORP III UNITS EACH REP 1 CL A ORD
-티커: BCCQU
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-07
+    <description><![CDATA[종목명: 에이지스
+영문명: AJIS CO. LTD.
+티커: 4659.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-18
 거래일수: 1일
-최근 종가: 10.0400]]></description>
+최근 종가: 4,420.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] ALPEX ACQUISITION CORPORATION (ALPX) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-alpex-acquisition-corporation-alpx---nasdaq-344f98.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-08-신규상장-alpex-acquisition-corporation-alpx---nasdaq-344f98.html</guid>
-    <pubDate>Wed, 08 Jul 2026 02:13:25 -0000</pubDate>
+    <title>[신규상장] 가이노스 (4556.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-가이노스-4556t---도쿄-a4a5ef.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-가이노스-4556t---도쿄-a4a5ef.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: ALPEX ACQUISITION CORPORATION
-영문명: ALPEX ACQUISITION CORPORATION
-티커: ALPX
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-07
+    <description><![CDATA[종목명: 가이노스
+영문명: KAINOS LABORATORIES INC.
+티커: 4556.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-12
 거래일수: 1일
-최근 종가: 9.8408]]></description>
+최근 종가: 2,268.0000]]></description>
   </item>
   <item>
-    <title>US - NASDAQ 100 Index - Forward PE Ratio (2026-07-05)</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-05-us---nasdaq-100-index---forward-pe-ratio-2026-07-0-60f9d3.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-05-us---nasdaq-100-index---forward-pe-ratio-2026-07-0-60f9d3.html</guid>
-    <pubDate>Sun, 05 Jul 2026 02:39:10 -0000</pubDate>
-    <category>거시경제 지표</category>
-    <description><![CDATA[]]></description>
-  </item>
-  <item>
-    <title>[신규상장] VIKING ACQUISITION CORPORATION II UNIT 1 ORD SHS CL A &amp; (VII-UN) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-viking-acquisition-corporation-ii-unit-1-ord--6c3978.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-viking-acquisition-corporation-ii-unit-1-ord--6c3978.html</guid>
-    <pubDate>Fri, 03 Jul 2026 02:31:58 -0000</pubDate>
+    <title>[신규상장] 기프티 (4449.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-기프티-4449t---도쿄-164728.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-기프티-4449t---도쿄-164728.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: VIKING ACQUISITION CORPORATION II UNIT 1 ORD SHS CL A &
-영문명: VIKING ACQUISITION CORPORATION II UNIT 1 ORD SHS CL A &
-티커: VII-UN
-시장: NYSE (미국)
+    <description><![CDATA[종목명: 기프티
+영문명: GIFTEE INC.
+티커: 4449.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-07-13
+거래일수: 2일
+최근 종가: 1,010.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 브이큐브 (3681.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-브이큐브-3681t---도쿄-31d9de.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-브이큐브-3681t---도쿄-31d9de.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 브이큐브
+영문명: V-CUBE INC.
+티커: 3681.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-30
+거래일수: 1일
+최근 종가: 9.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 이그랜드 (3294.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-이그랜드-3294t---도쿄-201a15.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-이그랜드-3294t---도쿄-201a15.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 이그랜드
+영문명: E GRAND CO. LTD
+티커: 3294.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-12
+거래일수: 1일
+최근 종가: 4,840.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] SFP홀딩스 (3198.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-sfp홀딩스-3198t---도쿄-c2040f.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-sfp홀딩스-3198t---도쿄-c2040f.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: SFP홀딩스
+영문명: SFP HOLDINGS CO. LTD.
+티커: 3198.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-29
+거래일수: 1일
+최근 종가: 2,225.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 지풋 (2686.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-지풋-2686t---도쿄-1672c7.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-지풋-2686t---도쿄-1672c7.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 지풋
+영문명: GFOOT CO. LTD.
+티커: 2686.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-22
+거래일수: 1일
+최근 종가: 297.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 요메이슈양조 (2540.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-요메이슈양조-2540t---도쿄-bf8e94.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-요메이슈양조-2540t---도쿄-bf8e94.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 요메이슈양조
+영문명: YOMEISHU SEIZO CO. LTD.
+티커: 2540.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-17
+거래일수: 1일
+최근 종가: 4,030.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 비알홀딩스 (1726.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-비알홀딩스-1726t---도쿄-836dd3.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-비알홀딩스-1726t---도쿄-836dd3.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 비알홀딩스
+영문명: BR.HOLDINGS CORPORATION
+티커: 1726.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-02
+거래일수: 1일
+최근 종가: 526.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 산코쇼지 (136A.T) - 도쿄</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-산코쇼지-136at---도쿄-1e6603.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-산코쇼지-136at---도쿄-1e6603.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 산코쇼지
+영문명: SANKOSYOJI CO. LTD.
+티커: 136A.T
+시장: 도쿄 (일본)
+첫 거래일: 2026-06-29
+거래일수: 1일
+최근 종가: 4,330.0000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 타이허수처리 (605081.SS) - 상해</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-타이허수처리-605081ss---상해-296bda.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-타이허수처리-605081ss---상해-296bda.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 타이허수처리
+영문명: SHANGHAI TAIHE WATER TECHNOLOGY DEV
+티커: 605081.SS
+시장: 상해 (중국)
 첫 거래일: 2026-07-02
 거래일수: 1일
-최근 종가: 10.0200]]></description>
+최근 종가: 0.4000]]></description>
   </item>
   <item>
-    <title>[신규상장] SECURITIZE CORP (SECZ) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-securitize-corp-secz---nyse-17f3eb.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-securitize-corp-secz---nyse-17f3eb.html</guid>
-    <pubDate>Fri, 03 Jul 2026 02:31:58 -0000</pubDate>
+    <title>[신규상장] 옌스엔터프라이즈 (600696.SS) - 상해</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-옌스엔터프라이즈-600696ss---상해-c3ef9a.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-옌스엔터프라이즈-600696ss---상해-c3ef9a.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: SECURITIZE CORP
-영문명: SECURITIZE CORP
-티커: SECZ
+    <description><![CDATA[종목명: 옌스엔터프라이즈
+영문명: SHANGHAI JUNDAO LIQUOR ENTERPRISE D
+티커: 600696.SS
+시장: 상해 (중국)
+첫 거래일: 2026-06-29
+거래일수: 1일
+최근 종가: 0.7400]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 궈신문화 (600636.SS) - 상해</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-궈신문화-600636ss---상해-6e6574.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-궈신문화-600636ss---상해-6e6574.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 궈신문화
+영문명: CHINA REFORM CULTURE HOLDINGS CO LT
+티커: 600636.SS
+시장: 상해 (중국)
+첫 거래일: 2026-06-29
+거래일수: 1일
+최근 종가: 1.7100]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 상하이브로드밴드 (600608.SS) - 상해</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-상하이브로드밴드-600608ss---상해-8c993a.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-상하이브로드밴드-600608ss---상해-8c993a.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 상하이브로드밴드
+영문명: SHANGHAI BROADBAND TECHNOLOGY CO
+티커: 600608.SS
+시장: 상해 (중국)
+첫 거래일: 2026-07-02
+거래일수: 1일
+최근 종가: 0.1700]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 슝마오금융지주 (600599.SS) - 상해</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-슝마오금융지주-600599ss---상해-a4d28a.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-슝마오금융지주-600599ss---상해-a4d28a.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 슝마오금융지주
+영문명: PANDA FINANCIAL HOLDING CORP LTD
+티커: 600599.SS
+시장: 상해 (중국)
+첫 거래일: 2026-06-25
+거래일수: 1일
+최근 종가: 0.4300]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 양판홀딩스 (600421.SS) - 상해</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-양판홀딩스-600421ss---상해-31177e.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-양판홀딩스-600421ss---상해-31177e.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 양판홀딩스
+영문명: HUBEI HUARONG HOLDING CO LTD
+티커: 600421.SS
+시장: 상해 (중국)
+첫 거래일: 2026-06-25
+거래일수: 1일
+최근 종가: 0.2400]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 그래프 글로벌 유닛 (GRAF-UN) - AMEX</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-그래프-글로벌-유닛-graf-un---amex-a7aa36.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-그래프-글로벌-유닛-graf-un---amex-a7aa36.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 그래프 글로벌 유닛
+영문명: GRAF GLOBAL CORP UNIT 1 ORD SHS CL A & 1/2 WT EXP
+티커: GRAF-UN
+시장: AMEX (미국)
+첫 거래일: 2026-06-02
+거래일수: 7일
+최근 종가: 10.7900]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 실라 리얼티 트러스트 (SILA) - NYSE</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-실라-리얼티-트러스트-sila---nyse-494515.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-실라-리얼티-트러스트-sila---nyse-494515.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 실라 리얼티 트러스트
+영문명: SILA REALTY TRUST INC
+티커: SILA
 시장: NYSE (미국)
-첫 거래일: 2026-07-02
+첫 거래일: 2026-06-30
 거래일수: 1일
-최근 종가: 12.3000]]></description>
+최근 종가: 30.3600]]></description>
   </item>
   <item>
-    <title>[신규상장] MOBILITY GLOBAL INC (MBGL) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-mobility-global-inc-mbgl---nyse-bad735.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-mobility-global-inc-mbgl---nyse-bad735.html</guid>
-    <pubDate>Fri, 03 Jul 2026 02:31:58 -0000</pubDate>
+    <title>[신규상장] 셀렉트 메디컬 홀딩스 (SEM) - NYSE</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-셀렉트-메디컬-홀딩스-sem---nyse-2278d5.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-셀렉트-메디컬-홀딩스-sem---nyse-2278d5.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: MOBILITY GLOBAL INC
-영문명: MOBILITY GLOBAL INC
-티커: MBGL
+    <description><![CDATA[종목명: 셀렉트 메디컬 홀딩스
+영문명: SELECT MEDICAL HOLDINGS CORPORATION
+티커: SEM
 시장: NYSE (미국)
-첫 거래일: 2026-07-02
+첫 거래일: 2026-06-30
 거래일수: 1일
-최근 종가: 19.8000]]></description>
+최근 종가: 16.5100]]></description>
   </item>
   <item>
-    <title>[신규상장] OSPREY ACQUISITION CORPORATION III UNITS EACH CONST OF 1 CL (OSPRU) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-osprey-acquisition-corporation-iii-units-each-8e4108.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-osprey-acquisition-corporation-iii-units-each-8e4108.html</guid>
-    <pubDate>Fri, 03 Jul 2026 02:31:58 -0000</pubDate>
+    <title>[신규상장] 리인슈어런스 그룹 오브 아메리카 후순위채권(2056-06-15 5.750%) (RZB) - NYSE</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-리인슈어런스-그룹-오브-아메리카-후순위채권2056-06-15-5750-rzb----cf7b4b.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-리인슈어런스-그룹-오브-아메리카-후순위채권2056-06-15-5750-rzb----cf7b4b.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: OSPREY ACQUISITION CORPORATION III UNITS EACH CONST OF 1 CL
-영문명: OSPREY ACQUISITION CORPORATION III UNITS EACH CONST OF 1 CL
-티커: OSPRU
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-02
+    <description><![CDATA[종목명: 리인슈어런스 그룹 오브 아메리카 후순위채권(2056-06-15 5.750%)
+영문명: REINSURANCE GROUP OF AMERICA 5.75% FXD TO FLTNG SUB ORD 15/6
+티커: RZB
+시장: NYSE (미국)
+첫 거래일: 2026-06-16
 거래일수: 1일
-최근 종가: 10.1000]]></description>
+최근 종가: 25.3400]]></description>
   </item>
   <item>
-    <title>[신규상장] MERIDIAN3 INDUSTRIALS ACQUIS CORP UNIT EACH REP 1 ORD SHS &amp; (MIACU) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-meridian3-industrials-acquis-corp-unit-each-r-aa15a3.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-meridian3-industrials-acquis-corp-unit-each-r-aa15a3.html</guid>
-    <pubDate>Fri, 03 Jul 2026 02:31:58 -0000</pubDate>
+    <title>[신규상장] 프로어슈어런스 (PRA) - NYSE</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-프로어슈어런스-pra---nyse-1bca05.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-프로어슈어런스-pra---nyse-1bca05.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: MERIDIAN3 INDUSTRIALS ACQUIS CORP UNIT EACH REP 1 ORD SHS &
-영문명: MERIDIAN3 INDUSTRIALS ACQUIS CORP UNIT EACH REP 1 ORD SHS &
-티커: MIACU
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-02
-거래일수: 1일
-최근 종가: 10.0000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] NEUTRON HLDGS INC (LIME) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-neutron-hldgs-inc-lime---nasdaq-2cf3a2.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-neutron-hldgs-inc-lime---nasdaq-2cf3a2.html</guid>
-    <pubDate>Fri, 03 Jul 2026 02:31:58 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: NEUTRON HLDGS INC
-영문명: NEUTRON HLDGS INC
-티커: LIME
-시장: NASDAQ (미국)
+    <description><![CDATA[종목명: 프로어슈어런스
+영문명: PROASSURANCE CORP
+티커: PRA
+시장: NYSE (미국)
 첫 거래일: 2026-07-02
 거래일수: 1일
 최근 종가: 25.0000]]></description>
   </item>
   <item>
-    <title>[신규상장] ITG INC (ITG) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-itg-inc-itg---nasdaq-a3c9b6.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-itg-inc-itg---nasdaq-a3c9b6.html</guid>
-    <pubDate>Fri, 03 Jul 2026 02:31:58 -0000</pubDate>
+    <title>[신규상장] 렌딩 클럽 (LC) - NYSE</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-렌딩-클럽-lc---nyse-6907b8.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-렌딩-클럽-lc---nyse-6907b8.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: ITG INC
-영문명: ITG INC
-티커: ITG
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-02
-거래일수: 1일
-최근 종가: 15.4600]]></description>
-  </item>
-  <item>
-    <title>[신규상장] GSR V ACQUISITION CORP (GSRV) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-gsr-v-acquisition-corp-gsrv---nasdaq-e3cc50.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-gsr-v-acquisition-corp-gsrv---nasdaq-e3cc50.html</guid>
-    <pubDate>Fri, 03 Jul 2026 02:31:58 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: GSR V ACQUISITION CORP
-영문명: GSR V ACQUISITION CORP
-티커: GSRV
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-02
-거래일수: 1일
-최근 종가: 9.9100]]></description>
-  </item>
-  <item>
-    <title>[신규상장] CIRCLE8 GROUP INC (CIRC) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-circle8-group-inc-circ---nasdaq-659b28.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-circle8-group-inc-circ---nasdaq-659b28.html</guid>
-    <pubDate>Fri, 03 Jul 2026 02:31:58 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: CIRCLE8 GROUP INC
-영문명: CIRCLE8 GROUP INC
-티커: CIRC
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-02
-거래일수: 1일
-최근 종가: 0.8276]]></description>
-  </item>
-  <item>
-    <title>[신규상장] BENDING SPOONS S.P.A (BSP) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-bending-spoons-spa-bsp---nasdaq-db55f5.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-bending-spoons-spa-bsp---nasdaq-db55f5.html</guid>
-    <pubDate>Fri, 03 Jul 2026 02:31:58 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: BENDING SPOONS S.P.A
-영문명: BENDING SPOONS S.P.A
-티커: BSP
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-02
-거래일수: 1일
-최근 종가: 35.9300]]></description>
-  </item>
-  <item>
-    <title>[신규상장] AEON ACQUISITION I CORP (AESP) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-aeon-acquisition-i-corp-aesp---nasdaq-7f941e.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-03-신규상장-aeon-acquisition-i-corp-aesp---nasdaq-7f941e.html</guid>
-    <pubDate>Fri, 03 Jul 2026 02:31:58 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: AEON ACQUISITION I CORP
-영문명: AEON ACQUISITION I CORP
-티커: AESP
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-02
-거래일수: 1일
-최근 종가: 9.8700]]></description>
-  </item>
-  <item>
-    <title>[신규상장] FUJIKOSAN CO. LTD. (595A.T) - 도쿄</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-fujikosan-co-ltd-595at---도쿄-6846cb.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-fujikosan-co-ltd-595at---도쿄-6846cb.html</guid>
-    <pubDate>Wed, 01 Jul 2026 02:58:43 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: FUJIKOSAN CO. LTD.
-영문명: FUJIKOSAN CO. LTD.
-티커: 595A.T
-시장: 도쿄 (일본)
-첫 거래일: 2026-06-30
-거래일수: 1일
-최근 종가: 452.0000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] NEIS CO. LTD. (589A.T) - 도쿄</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-neis-co-ltd-589at---도쿄-d169a1.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-neis-co-ltd-589at---도쿄-d169a1.html</guid>
-    <pubDate>Wed, 01 Jul 2026 02:58:43 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: NEIS CO. LTD.
-영문명: NEIS CO. LTD.
-티커: 589A.T
-시장: 도쿄 (일본)
-첫 거래일: 2026-06-30
-거래일수: 1일
-최근 종가: 1,776.0000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] HANGZHOU GOLD ELECTR EQUIP CO LTD (301669.SZ) - 심천</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-hangzhou-gold-electr-equip-co-ltd-301669sz----6ebfe8.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-hangzhou-gold-electr-equip-co-ltd-301669sz----6ebfe8.html</guid>
-    <pubDate>Wed, 01 Jul 2026 02:58:43 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: HANGZHOU GOLD ELECTR EQUIP CO LTD
-영문명: HANGZHOU GOLD ELECTR EQUIP CO LTD
-티커: 301669.SZ
-시장: 심천 (중국)
-첫 거래일: 2026-06-09
-거래일수: 15일
-최근 종가: 41.1300]]></description>
-  </item>
-  <item>
-    <title>[신규상장] HKC CORPORATION LTD (001399.SZ) - 심천</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-hkc-corporation-ltd-001399sz---심천-4819a1.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-hkc-corporation-ltd-001399sz---심천-4819a1.html</guid>
-    <pubDate>Wed, 01 Jul 2026 02:58:43 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: HKC CORPORATION LTD
-영문명: HKC CORPORATION LTD
-티커: 001399.SZ
-시장: 심천 (중국)
-첫 거래일: 2026-06-26
-거래일수: 3일
-최근 종가: 38.1800]]></description>
-  </item>
-  <item>
-    <title>[신규상장] STARLINK AI ACQUISITION CORPORATION (OTAI) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-starlink-ai-acquisition-corporation-otai---ny-f5635a.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-starlink-ai-acquisition-corporation-otai---ny-f5635a.html</guid>
-    <pubDate>Wed, 01 Jul 2026 02:58:43 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: STARLINK AI ACQUISITION CORPORATION
-영문명: STARLINK AI ACQUISITION CORPORATION
-티커: OTAI
+    <description><![CDATA[종목명: 렌딩 클럽
+영문명: LENDING CLUB CORP
+티커: LC
 시장: NYSE (미국)
-첫 거래일: 2026-06-29
-거래일수: 2일
-최근 종가: 9.9000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] ARES ACQUISITION CORPORATION III UNIT 1 ORD SHS CL A &amp; 1 (AAC-UN) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-ares-acquisition-corporation-iii-unit-1-ord-s-e33408.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-ares-acquisition-corporation-iii-unit-1-ord-s-e33408.html</guid>
-    <pubDate>Wed, 01 Jul 2026 02:58:43 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: ARES ACQUISITION CORPORATION III UNIT 1 ORD SHS CL A & 1
-영문명: ARES ACQUISITION CORPORATION III UNIT 1 ORD SHS CL A & 1
-티커: AAC-UN
-시장: NYSE (미국)
-첫 거래일: 2026-06-30
+첫 거래일: 2026-07-13
 거래일수: 1일
-최근 종가: 10.0500]]></description>
+최근 종가: 19.6100]]></description>
   </item>
   <item>
-    <title>[신규상장] HONEYWELL AEROSPACE INC (HONA) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-honeywell-aerospace-inc-hona---nasdaq-1b5db3.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-honeywell-aerospace-inc-hona---nasdaq-1b5db3.html</guid>
-    <pubDate>Wed, 01 Jul 2026 02:58:43 -0000</pubDate>
+    <title>[신규상장] 케네디 윌슨 홀딩스 (KW) - NYSE</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-케네디-윌슨-홀딩스-kw---nyse-cd37b8.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-케네디-윌슨-홀딩스-kw---nyse-cd37b8.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: HONEYWELL AEROSPACE INC
-영문명: HONEYWELL AEROSPACE INC
-티커: HONA
-시장: NASDAQ (미국)
+    <description><![CDATA[종목명: 케네디 윌슨 홀딩스
+영문명: KENNEDY-WILSON HOLDINGS INC
+티커: KW
+시장: NYSE (미국)
 첫 거래일: 2026-06-15
-거래일수: 11일
-최근 종가: 221.0800]]></description>
-  </item>
-  <item>
-    <title>[신규상장] AMPERCAP ACQUISITION CO (APMC) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-ampercap-acquisition-co-apmc---nasdaq-368476.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-01-신규상장-ampercap-acquisition-co-apmc---nasdaq-368476.html</guid>
-    <pubDate>Wed, 01 Jul 2026 02:58:43 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: AMPERCAP ACQUISITION CO
-영문명: AMPERCAP ACQUISITION CO
-티커: APMC
-시장: NASDAQ (미국)
-첫 거래일: 2026-06-30
 거래일수: 1일
-최근 종가: 9.8900]]></description>
+최근 종가: 10.9200]]></description>
   </item>
   <item>
-    <title>[신규상장] SINDA LTD (SIND) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-28-신규상장-sinda-ltd-sind---nyse-50a579.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-28-신규상장-sinda-ltd-sind---nyse-50a579.html</guid>
-    <pubDate>Sun, 28 Jun 2026 02:58:51 -0000</pubDate>
+    <title>[신규상장] 프레쉬 델몬트 프로듀스 (FDP) - NYSE</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-프레쉬-델몬트-프로듀스-fdp---nyse-e8ca2c.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-프레쉬-델몬트-프로듀스-fdp---nyse-e8ca2c.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: SINDA LTD
-영문명: SINDA LTD
-티커: SIND
-시장: NYSE (미국)
-첫 거래일: 2026-06-26
-거래일수: 1일
-최근 종가: 12.0000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] STABLECOINX INC (USDE) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-28-신규상장-stablecoinx-inc-usde---nasdaq-317b9c.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-28-신규상장-stablecoinx-inc-usde---nasdaq-317b9c.html</guid>
-    <pubDate>Sun, 28 Jun 2026 02:58:51 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: STABLECOINX INC
-영문명: STABLECOINX INC
-티커: USDE
-시장: NASDAQ (미국)
-첫 거래일: 2026-06-26
-거래일수: 1일
-최근 종가: 3.7000]]></description>
-  </item>
-  <item>
-    <title>US - NASDAQ 100 Index - Forward PE Ratio (2026-06-27)</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-27-us---nasdaq-100-index---forward-pe-ratio-2026-06-2-fd36d7.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-27-us---nasdaq-100-index---forward-pe-ratio-2026-06-2-fd36d7.html</guid>
-    <pubDate>Sat, 27 Jun 2026 02:43:25 -0000</pubDate>
-    <category>거시경제 지표</category>
-    <description><![CDATA[]]></description>
-  </item>
-  <item>
-    <title>[신규상장] DPC HOLDINGS PLC (DPC) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-26-신규상장-dpc-holdings-plc-dpc---nyse-050682.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-26-신규상장-dpc-holdings-plc-dpc---nyse-050682.html</guid>
-    <pubDate>Fri, 26 Jun 2026 02:53:32 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: DPC HOLDINGS PLC
-영문명: DPC HOLDINGS PLC
-티커: DPC
-시장: NYSE (미국)
-첫 거래일: 2026-06-25
-거래일수: 1일
-최근 종가: 46.8800]]></description>
-  </item>
-  <item>
-    <title>[신규상장] FUTUREWAVE ACQUISITION CORPORATION UNITS EACH REP 1 ORD &amp;38 (FWACU) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-26-신규상장-futurewave-acquisition-corporation-units-each-0c8a80.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-26-신규상장-futurewave-acquisition-corporation-units-each-0c8a80.html</guid>
-    <pubDate>Fri, 26 Jun 2026 02:53:32 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: FUTUREWAVE ACQUISITION CORPORATION UNITS EACH REP 1 ORD &38
-영문명: FUTUREWAVE ACQUISITION CORPORATION UNITS EACH REP 1 ORD &38
-티커: FWACU
-시장: NASDAQ (미국)
-첫 거래일: 2026-06-25
-거래일수: 1일
-최근 종가: 10.0000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] ECHOSTAR CORPORATION (ECHO) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-26-신규상장-echostar-corporation-echo---nasdaq-d61484.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-26-신규상장-echostar-corporation-echo---nasdaq-d61484.html</guid>
-    <pubDate>Fri, 26 Jun 2026 02:53:32 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: ECHOSTAR CORPORATION
-영문명: ECHOSTAR CORPORATION
-티커: ECHO
-시장: NASDAQ (미국)
-첫 거래일: 2026-06-25
-거래일수: 1일
-최근 종가: 97.1900]]></description>
-  </item>
-  <item>
-    <title>[신규상장] GDS HOLDINGS LTD SPON ADS EACH REP 20 CL A ORD (DSC) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-26-신규상장-gds-holdings-ltd-spon-ads-each-rep-20-cl-a-or-8f1575.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-26-신규상장-gds-holdings-ltd-spon-ads-each-rep-20-cl-a-or-8f1575.html</guid>
-    <pubDate>Fri, 26 Jun 2026 02:53:32 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: GDS HOLDINGS LTD SPON ADS EACH REP 20 CL A ORD
-영문명: GDS HOLDINGS LTD SPON ADS EACH REP 20 CL A ORD
-티커: DSC
-시장: NASDAQ (미국)
-첫 거래일: 2026-06-25
-거래일수: 1일
-최근 종가: 9.0600]]></description>
-  </item>
-  <item>
-    <title>[신규상장] CARTESIAN GROWTH CORPORATION IV UNIT EACH REP 1 CL A ORD &amp;3 (CGCFU) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-26-신규상장-cartesian-growth-corporation-iv-unit-each-rep-d10659.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-26-신규상장-cartesian-growth-corporation-iv-unit-each-rep-d10659.html</guid>
-    <pubDate>Fri, 26 Jun 2026 02:53:32 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: CARTESIAN GROWTH CORPORATION IV UNIT EACH REP 1 CL A ORD &3
-영문명: CARTESIAN GROWTH CORPORATION IV UNIT EACH REP 1 CL A ORD &3
-티커: CGCFU
-시장: NASDAQ (미국)
-첫 거래일: 2026-06-25
-거래일수: 1일
-최근 종가: 10.0000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] ALPEX ACQUISITION CORP UNIT REP 1 CL A ORD &amp; 1 WT &amp; (ALPXU) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-26-신규상장-alpex-acquisition-corp-unit-rep-1-cl-a-ord-1--2b07fa.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-26-신규상장-alpex-acquisition-corp-unit-rep-1-cl-a-ord-1--2b07fa.html</guid>
-    <pubDate>Fri, 26 Jun 2026 02:53:32 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: ALPEX ACQUISITION CORP UNIT REP 1 CL A ORD & 1 WT &
-영문명: ALPEX ACQUISITION CORP UNIT REP 1 CL A ORD & 1 WT &
-티커: ALPXU
-시장: NASDAQ (미국)
-첫 거래일: 2026-06-25
-거래일수: 1일
-최근 종가: 10.0000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] LINKX INC. (584A.T) - 도쿄</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-24-신규상장-linkx-inc-584at---도쿄-369073.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-24-신규상장-linkx-inc-584at---도쿄-369073.html</guid>
-    <pubDate>Wed, 24 Jun 2026 02:48:36 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: LINKX INC.
-영문명: LINKX INC.
-티커: 584A.T
-시장: 도쿄 (일본)
-첫 거래일: 2026-06-23
-거래일수: 1일
-최근 종가: 1,375.0000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] QUANTUM LEAP ACQUISITION CORP (QLEP) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-24-신규상장-quantum-leap-acquisition-corp-qlep---nyse-39d10a.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-24-신규상장-quantum-leap-acquisition-corp-qlep---nyse-39d10a.html</guid>
-    <pubDate>Wed, 24 Jun 2026 02:48:36 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: QUANTUM LEAP ACQUISITION CORP
-영문명: QUANTUM LEAP ACQUISITION CORP
-티커: QLEP
-시장: NYSE (미국)
-첫 거래일: 2026-06-23
-거래일수: 1일
-최근 종가: 9.9500]]></description>
-  </item>
-  <item>
-    <title>[신규상장] CH4 NATURAL SOLUTIONS CORPORATION (MTNE) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-24-신규상장-ch4-natural-solutions-corporation-mtne---nyse-83c0a9.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-24-신규상장-ch4-natural-solutions-corporation-mtne---nyse-83c0a9.html</guid>
-    <pubDate>Wed, 24 Jun 2026 02:48:36 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: CH4 NATURAL SOLUTIONS CORPORATION
-영문명: CH4 NATURAL SOLUTIONS CORPORATION
-티커: MTNE
+    <description><![CDATA[종목명: 프레쉬 델몬트 프로듀스
+영문명: DEL MONTE CORPORATION
+티커: FDP
 시장: NYSE (미국)
 첫 거래일: 2026-06-22
+거래일수: 16일
+최근 종가: 27.9900]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 클리어워터 애널리틱스 홀딩스 (CWAN) - NYSE</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-클리어워터-애널리틱스-홀딩스-cwan---nyse-657e85.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-클리어워터-애널리틱스-홀딩스-cwan---nyse-657e85.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 클리어워터 애널리틱스 홀딩스
+영문명: CLEARWATER ANALYTICS HLDGS INC
+티커: CWAN
+시장: NYSE (미국)
+첫 거래일: 2026-07-02
+거래일수: 1일
+최근 종가: 24.5600]]></description>
+  </item>
+  <item>
+    <title>[신규상장] YORKVILLE INTERNATIONAL CAPITAL CORP (YICC) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-yorkville-international-capital-corp-yicc---n-783886.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-yorkville-international-capital-corp-yicc---n-783886.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: YORKVILLE INTERNATIONAL CAPITAL CORP
+영문명: YORKVILLE INTERNATIONAL CAPITAL CORP
+티커: YICC
+시장: NASDAQ (미국)
+첫 거래일: 2026-07-13
 거래일수: 2일
 최근 종가: 9.8500]]></description>
   </item>
   <item>
-    <title>[신규상장] TEAMSHARES INC (TMS) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-24-신규상장-teamshares-inc-tms---nasdaq-9e5dfc.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-24-신규상장-teamshares-inc-tms---nasdaq-9e5dfc.html</guid>
-    <pubDate>Wed, 24 Jun 2026 02:48:36 -0000</pubDate>
+    <title>[신규상장] 베르데 클린 퓨얼스 워런트 (VGASW) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-베르데-클린-퓨얼스-워런트-vgasw---nasdaq-bb6b10.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-베르데-클린-퓨얼스-워런트-vgasw---nasdaq-bb6b10.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: TEAMSHARES INC
-영문명: TEAMSHARES INC
-티커: TMS
+    <description><![CDATA[종목명: 베르데 클린 퓨얼스 워런트
+영문명: VERDE CLEAN FUELS INC C/WTS 15/02/2028 (TO PUR COM)
+티커: VGASW
 시장: NASDAQ (미국)
-첫 거래일: 2026-06-23
-거래일수: 1일
-최근 종가: 12.5001]]></description>
+첫 거래일: 2026-07-10
+거래일수: 2일
+최근 종가: 0.0297]]></description>
   </item>
   <item>
-    <title>[신규상장] MOUNTAIN CREST ACQUISITION 6 CORP (MCAH) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-06-24-신규상장-mountain-crest-acquisition-6-corp-mcah---nasd-daecc8.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-06-24-신규상장-mountain-crest-acquisition-6-corp-mcah---nasd-daecc8.html</guid>
-    <pubDate>Wed, 24 Jun 2026 02:48:36 -0000</pubDate>
+    <title>[신규상장] TEXAS VENTURES ACQUISITION IV CORP (TVIV) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-texas-ventures-acquisition-iv-corp-tviv---nas-0dd767.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-texas-ventures-acquisition-iv-corp-tviv---nas-0dd767.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
     <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: MOUNTAIN CREST ACQUISITION 6 CORP
-영문명: MOUNTAIN CREST ACQUISITION 6 CORP
-티커: MCAH
+    <description><![CDATA[종목명: TEXAS VENTURES ACQUISITION IV CORP
+영문명: TEXAS VENTURES ACQUISITION IV CORP
+티커: TVIV
 시장: NASDAQ (미국)
-첫 거래일: 2026-06-22
+첫 거래일: 2026-07-13
 거래일수: 2일
-최근 종가: 9.9300]]></description>
+최근 종가: 9.9000]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 온콜로지 인스티튜트 콜 워런트(2026-11-15) (TOIIW) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-온콜로지-인스티튜트-콜-워런트2026-11-15-toiiw---nasdaq-1a8399.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-온콜로지-인스티튜트-콜-워런트2026-11-15-toiiw---nasdaq-1a8399.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 온콜로지 인스티튜트 콜 워런트(2026-11-15)
+영문명: THE ONCOLOGY INSTITUTE INC C/WTS (TO PUR COM)
+티커: TOIIW
+시장: NASDAQ (미국)
+첫 거래일: 2026-07-10
+거래일수: 2일
+최근 종가: 0.0697]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 스위블 홀딩스 콜 워런트(2027-03-31) (SWVLW) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-스위블-홀딩스-콜-워런트2027-03-31-swvlw---nasdaq-c26101.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-스위블-홀딩스-콜-워런트2027-03-31-swvlw---nasdaq-c26101.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 스위블 홀딩스 콜 워런트(2027-03-31)
+영문명: SWVL HOLDINGS CORP C/WTS (TO PUR COM)
+티커: SWVLW
+시장: NASDAQ (미국)
+첫 거래일: 2026-07-10
+거래일수: 2일
+최근 종가: 0.0095]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 수로 캐피털 일반채권(2026-12-30 6.000%) (SSSSL) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-수로-캐피털-일반채권2026-12-30-6000-ssssl---nasdaq-4325ba.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-수로-캐피털-일반채권2026-12-30-6000-ssssl---nasdaq-4325ba.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 수로 캐피털 일반채권(2026-12-30 6.000%)
+영문명: SURO CAPITAL CORP 6.00% NOTES DUE 30/12/2026
+티커: SSSSL
+시장: NASDAQ (미국)
+첫 거래일: 2026-07-13
+거래일수: 1일
+최근 종가: 25.0200]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 수로 캐피털 (SSSS) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-수로-캐피털-ssss---nasdaq-439ef9.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-수로-캐피털-ssss---nasdaq-439ef9.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 수로 캐피털
+영문명: SURO CAPITAL CORP
+티커: SSSS
+시장: NASDAQ (미국)
+첫 거래일: 2026-07-13
+거래일수: 1일
+최근 종가: 10.9100]]></description>
+  </item>
+  <item>
+    <title>[신규상장] 사운드하운드 AI 콜 워런트(2027-04-26) (SOUNW) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-사운드하운드-ai-콜-워런트2027-04-26-sounw---nasdaq-550e77.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-사운드하운드-ai-콜-워런트2027-04-26-sounw---nasdaq-550e77.html</guid>
+    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 사운드하운드 AI 콜 워런트(2027-04-26)
+영문명: SOUNDHOUND AI INC C/WTS 26/04/2027 (TO PUR COM)
+티커: SOUNW
+시장: NASDAQ (미국)
+첫 거래일: 2026-07-10
+거래일수: 2일
+최근 종가: 1.8400]]></description>
   </item>
   </channel>
 </rss>
