@@ -5,9 +5,31 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 19 Jul 2026 02:12:41 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 03:19:35 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>US - NASDAQ 100 Index - Forward PE Ratio (2026-07-20)</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-20-us---nasdaq-100-index---forward-pe-ratio-2026-07-2-669ead.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-20-us---nasdaq-100-index---forward-pe-ratio-2026-07-2-669ead.html</guid>
+    <pubDate>Mon, 20 Jul 2026 03:19:35 -0000</pubDate>
+    <category>거시경제 지표</category>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>[신규상장] OFFICE PROPERTIES INCOME TRUST (OPI) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-20-신규상장-office-properties-income-trust-opi---nasdaq-cffc9a.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-20-신규상장-office-properties-income-trust-opi---nasdaq-cffc9a.html</guid>
+    <pubDate>Mon, 20 Jul 2026 03:19:35 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: OFFICE PROPERTIES INCOME TRUST
+영문명: OFFICE PROPERTIES INCOME TRUST
+티커: OPI
+시장: NASDAQ (미국)
+첫 거래일: 2026-06-18
+거래일수: 20일
+최근 종가: 18.0000]]></description>
+  </item>
   <item>
     <title>[신규상장] DISCIPLINED GROWTH ACQUISITION CORPORATION (DGAC) - NYSE</title>
     <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-19-신규상장-disciplined-growth-acquisition-corporation-dg-cac04c.html</link>
@@ -674,34 +696,6 @@
 첫 거래일: 2026-06-22
 거래일수: 16일
 최근 종가: 27.9900]]></description>
-  </item>
-  <item>
-    <title>[신규상장] 클리어워터 애널리틱스 홀딩스 (CWAN) - NYSE</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-클리어워터-애널리틱스-홀딩스-cwan---nyse-657e85.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-클리어워터-애널리틱스-홀딩스-cwan---nyse-657e85.html</guid>
-    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: 클리어워터 애널리틱스 홀딩스
-영문명: CLEARWATER ANALYTICS HLDGS INC
-티커: CWAN
-시장: NYSE (미국)
-첫 거래일: 2026-07-02
-거래일수: 1일
-최근 종가: 24.5600]]></description>
-  </item>
-  <item>
-    <title>[신규상장] YORKVILLE INTERNATIONAL CAPITAL CORP (YICC) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-yorkville-international-capital-corp-yicc---n-783886.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-yorkville-international-capital-corp-yicc---n-783886.html</guid>
-    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: YORKVILLE INTERNATIONAL CAPITAL CORP
-영문명: YORKVILLE INTERNATIONAL CAPITAL CORP
-티커: YICC
-시장: NASDAQ (미국)
-첫 거래일: 2026-07-13
-거래일수: 2일
-최근 종가: 9.8500]]></description>
   </item>
   </channel>
 </rss>
