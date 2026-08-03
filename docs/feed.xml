@@ -5,9 +5,23 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 02 Aug 2026 02:19:59 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 02:23:26 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>[신규상장] VICORE PHARMA HOLDING AB (PUBL) SPON ADS EACH REP 10 COM SHS (VCRE) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-03-신규상장-vicore-pharma-holding-ab-publ-spon-ads-each-r-8e3468.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-08-03-신규상장-vicore-pharma-holding-ab-publ-spon-ads-each-r-8e3468.html</guid>
+    <pubDate>Mon, 03 Aug 2026 02:23:26 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: VICORE PHARMA HOLDING AB (PUBL) SPON ADS EACH REP 10 COM SHS
+영문명: VICORE PHARMA HOLDING AB (PUBL) SPON ADS EACH REP 10 COM SHS
+티커: VCRE
+시장: NASDAQ (미국)
+첫 거래일: 2026-07-06
+거래일수: 20일
+최근 종가: 11.4000]]></description>
+  </item>
   <item>
     <title>[신규상장] CHURCHILL CAPITAL CORPORATION XIII UNIT CONSIST OF 1 CL A OR (XIIIU) - NASDAQ</title>
     <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-01-신규상장-churchill-capital-corporation-xiii-unit-consi-bd8f58.html</link>
@@ -676,20 +690,6 @@
 첫 거래일: 2026-07-14
 거래일수: 1일
 최근 종가: 13,600.0000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] 와트만 (9927.T) - 도쿄</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-와트만-9927t---도쿄-75bbcf.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-07-15-신규상장-와트만-9927t---도쿄-75bbcf.html</guid>
-    <pubDate>Wed, 15 Jul 2026 02:20:22 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: 와트만
-영문명: WATT MANN CO. LTD.
-티커: 9927.T
-시장: 도쿄 (일본)
-첫 거래일: 2026-06-18
-거래일수: 1일
-최근 종가: 963.0000]]></description>
   </item>
   </channel>
 </rss>
