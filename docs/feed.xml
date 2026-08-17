@@ -5,9 +5,23 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 16 Aug 2026 01:00:11 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 00:58:46 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>[신규상장] 이스트 웨스트 애비뉴 애퀴지션 유닛/권리(1/4주) (EWAVU) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-17-신규상장-이스트-웨스트-애비뉴-애퀴지션-유닛권리14주-ewavu---nasdaq-4874c1.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-08-17-신규상장-이스트-웨스트-애비뉴-애퀴지션-유닛권리14주-ewavu---nasdaq-4874c1.html</guid>
+    <pubDate>Mon, 17 Aug 2026 00:58:46 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: 이스트 웨스트 애비뉴 애퀴지션 유닛/권리(1/4주)
+영문명: EAST WEST AVE ACQUISITION CORP UNIT (1 COM & 1 RT) 14/07
+티커: EWAVU
+시장: NASDAQ (미국)
+첫 거래일: 2026-08-03
+거래일수: 10일
+최근 종가: 9.9700]]></description>
+  </item>
   <item>
     <title>[신규상장] 우에마쓰상회 (9914.T) - 도쿄</title>
     <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-15-신규상장-우에마쓰상회-9914t---도쿄-5c94e6.html</link>
@@ -693,20 +707,6 @@
 첫 거래일: 2026-07-17
 거래일수: 1일
 최근 종가: 11,460.0000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] 퍼스트스테이지 (2985.T) - 도쿄</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-15-신규상장-퍼스트스테이지-2985t---도쿄-a8f1fc.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-08-15-신규상장-퍼스트스테이지-2985t---도쿄-a8f1fc.html</guid>
-    <pubDate>Sat, 15 Aug 2026 01:21:40 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: 퍼스트스테이지
-영문명: FIRST STAGE CORPORATION
-티커: 2985.T
-시장: 도쿄 (일본)
-첫 거래일: 2026-07-17
-거래일수: 1일
-최근 종가: 1,600.0000]]></description>
   </item>
   </channel>
 </rss>
