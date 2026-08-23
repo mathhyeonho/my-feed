@@ -5,9 +5,23 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 22 Aug 2026 00:57:17 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 01:01:46 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>[신규상장] OSPREY ACQUISITION CORP III (OSPR) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-23-신규상장-osprey-acquisition-corp-iii-ospr---nasdaq-fff4a9.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-08-23-신규상장-osprey-acquisition-corp-iii-ospr---nasdaq-fff4a9.html</guid>
+    <pubDate>Sun, 23 Aug 2026 01:01:46 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: OSPREY ACQUISITION CORP III
+영문명: OSPREY ACQUISITION CORP III
+티커: OSPR
+시장: NASDAQ (미국)
+첫 거래일: 2026-08-21
+거래일수: 1일
+최근 종가: 9.9500]]></description>
+  </item>
   <item>
     <title>US - NASDAQ 100 Index - Forward PE Ratio (2026-08-21)</title>
     <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-21-us---nasdaq-100-index---forward-pe-ratio-2026-08-2-40ac50.html</link>
@@ -687,20 +701,6 @@
 첫 거래일: 2026-07-17
 거래일수: 1일
 최근 종가: 719.0000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] 히로홀딩스 (5130.T) - 도쿄</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-15-신규상장-히로홀딩스-5130t---도쿄-1a99ee.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-08-15-신규상장-히로홀딩스-5130t---도쿄-1a99ee.html</guid>
-    <pubDate>Sat, 15 Aug 2026 01:21:40 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: 히로홀딩스
-영문명: HIROHOLDINGS CO. LTD.
-티커: 5130.T
-시장: 도쿄 (일본)
-첫 거래일: 2026-07-17
-거래일수: 1일
-최근 종가: 447.0000]]></description>
   </item>
   </channel>
 </rss>
