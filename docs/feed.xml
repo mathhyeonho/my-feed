@@ -5,9 +5,23 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 25 Aug 2026 00:59:14 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 01:00:41 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>[신규상장] ADVASA HOLDINGS INC (ADBT) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-26-신규상장-advasa-holdings-inc-adbt---nasdaq-29e729.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-08-26-신규상장-advasa-holdings-inc-adbt---nasdaq-29e729.html</guid>
+    <pubDate>Wed, 26 Aug 2026 01:00:41 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: ADVASA HOLDINGS INC
+영문명: ADVASA HOLDINGS INC
+티커: ADBT
+시장: NASDAQ (미국)
+첫 거래일: 2026-08-25
+거래일수: 1일
+최근 종가: 6.2600]]></description>
+  </item>
   <item>
     <title>[신규상장] SURIGIKEN CO. LTD. (616A.T) - 도쿄</title>
     <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-25-신규상장-surigiken-co-ltd-616at---도쿄-ff7344.html</link>
@@ -687,20 +701,6 @@
 첫 거래일: 2026-07-17
 거래일수: 1일
 최근 종가: 1,210.0000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] 프런티어하우스 (5528.T) - 도쿄</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-15-신규상장-프런티어하우스-5528t---도쿄-f5745c.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-08-15-신규상장-프런티어하우스-5528t---도쿄-f5745c.html</guid>
-    <pubDate>Sat, 15 Aug 2026 01:21:40 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: 프런티어하우스
-영문명: FRONTIER HOUSE CO. LTD.
-티커: 5528.T
-시장: 도쿄 (일본)
-첫 거래일: 2026-07-17
-거래일수: 1일
-최근 종가: 1,500.0000]]></description>
   </item>
   </channel>
 </rss>
