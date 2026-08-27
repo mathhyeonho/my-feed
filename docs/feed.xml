@@ -5,9 +5,23 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 26 Aug 2026 01:00:41 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:54:47 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>[신규상장] JATT III ACQUISITION CORP (JTTT) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-27-신규상장-jatt-iii-acquisition-corp-jttt---nasdaq-8f9192.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-08-27-신규상장-jatt-iii-acquisition-corp-jttt---nasdaq-8f9192.html</guid>
+    <pubDate>Thu, 27 Aug 2026 06:54:47 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: JATT III ACQUISITION CORP
+영문명: JATT III ACQUISITION CORP
+티커: JTTT
+시장: NASDAQ (미국)
+첫 거래일: 2026-08-26
+거래일수: 1일
+최근 종가: 11.4500]]></description>
+  </item>
   <item>
     <title>[신규상장] ADVASA HOLDINGS INC (ADBT) - NASDAQ</title>
     <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-26-신규상장-advasa-holdings-inc-adbt---nasdaq-29e729.html</link>
@@ -687,20 +701,6 @@
 첫 거래일: 2026-07-17
 거래일수: 1일
 최근 종가: 1,700.0000]]></description>
-  </item>
-  <item>
-    <title>[신규상장] 나카야마부동산 (5531.T) - 도쿄</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-15-신규상장-나카야마부동산-5531t---도쿄-7899ee.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-08-15-신규상장-나카야마부동산-5531t---도쿄-7899ee.html</guid>
-    <pubDate>Sat, 15 Aug 2026 01:21:40 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: 나카야마부동산
-영문명: NAKAYAMA FUDOUSAN CO. LTD.
-티커: 5531.T
-시장: 도쿄 (일본)
-첫 거래일: 2026-07-17
-거래일수: 1일
-최근 종가: 1,210.0000]]></description>
   </item>
   </channel>
 </rss>
