@@ -5,9 +5,23 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:01:18 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 03:04:26 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>[신규상장] AMERICAN SAVINGS BANK N A (ASBH) - NYSE</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-09-17-신규상장-american-savings-bank-n-a-asbh---nyse-b4e1cc.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-09-17-신규상장-american-savings-bank-n-a-asbh---nyse-b4e1cc.html</guid>
+    <pubDate>Thu, 17 Sep 2026 03:04:26 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: AMERICAN SAVINGS BANK N A
+영문명: AMERICAN SAVINGS BANK N A
+티커: ASBH
+시장: NYSE (미국)
+첫 거래일: 2026-09-14
+거래일수: 3일
+최근 종가: 17.0000]]></description>
+  </item>
   <item>
     <title>[신규상장] 누부루 (BURU) - AMEX</title>
     <link>https://mathhyeonho.github.io/my-feed/posts/2026-09-16-신규상장-누부루-buru---amex-2f6ccc.html</link>
@@ -671,20 +685,6 @@
 첫 거래일: 2026-08-26
 거래일수: 1일
 최근 종가: 11.4500]]></description>
-  </item>
-  <item>
-    <title>[신규상장] ADVASA HOLDINGS INC (ADBT) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-08-26-신규상장-advasa-holdings-inc-adbt---nasdaq-29e729.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-08-26-신규상장-advasa-holdings-inc-adbt---nasdaq-29e729.html</guid>
-    <pubDate>Wed, 26 Aug 2026 01:00:41 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: ADVASA HOLDINGS INC
-영문명: ADVASA HOLDINGS INC
-티커: ADBT
-시장: NASDAQ (미국)
-첫 거래일: 2026-08-25
-거래일수: 1일
-최근 종가: 6.2600]]></description>
   </item>
   </channel>
 </rss>
