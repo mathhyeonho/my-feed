@@ -5,9 +5,23 @@
     <link>https://mathhyeonho.github.io/my-feed</link>
     <description>자동 수집 · AI 정리 피드</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 23 Sep 2026 02:59:43 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 02:50:56 -0000</lastBuildDate>
     <atom:link href="https://mathhyeonho.github.io/my-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>[신규상장] LIVE OAK ACQUISITION CORPORATION VI UNITS CONSISTING 1 ORD S (LOVIU) - NASDAQ</title>
+    <link>https://mathhyeonho.github.io/my-feed/posts/2026-09-24-신규상장-live-oak-acquisition-corporation-vi-units-con-b28d80.html</link>
+    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-09-24-신규상장-live-oak-acquisition-corporation-vi-units-con-b28d80.html</guid>
+    <pubDate>Thu, 24 Sep 2026 02:50:56 -0000</pubDate>
+    <category>신규상장주 트래커</category>
+    <description><![CDATA[종목명: LIVE OAK ACQUISITION CORPORATION VI UNITS CONSISTING 1 ORD S
+영문명: LIVE OAK ACQUISITION CORPORATION VI UNITS CONSISTING 1 ORD S
+티커: LOVIU
+시장: NASDAQ (미국)
+첫 거래일: 2026-09-23
+거래일수: 1일
+최근 종가: 10.0100]]></description>
+  </item>
   <item>
     <title>US - NASDAQ 100 Index - Forward PE Ratio (2026-09-19)</title>
     <link>https://mathhyeonho.github.io/my-feed/posts/2026-09-19-us---nasdaq-100-index---forward-pe-ratio-2026-09-1-a982d4.html</link>
@@ -671,20 +685,6 @@
 첫 거래일: 2026-09-02
 거래일수: 1일
 최근 종가: 9.8650]]></description>
-  </item>
-  <item>
-    <title>[신규상장] GIX INTERNET LTD (GIXI) - NASDAQ</title>
-    <link>https://mathhyeonho.github.io/my-feed/posts/2026-09-03-신규상장-gix-internet-ltd-gixi---nasdaq-0b14ba.html</link>
-    <guid isPermaLink="true">https://mathhyeonho.github.io/my-feed/posts/2026-09-03-신규상장-gix-internet-ltd-gixi---nasdaq-0b14ba.html</guid>
-    <pubDate>Thu, 03 Sep 2026 02:40:09 -0000</pubDate>
-    <category>신규상장주 트래커</category>
-    <description><![CDATA[종목명: GIX INTERNET LTD
-영문명: GIX INTERNET LTD
-티커: GIXI
-시장: NASDAQ (미국)
-첫 거래일: 2026-09-02
-거래일수: 1일
-최근 종가: 12.0000]]></description>
   </item>
   </channel>
 </rss>
